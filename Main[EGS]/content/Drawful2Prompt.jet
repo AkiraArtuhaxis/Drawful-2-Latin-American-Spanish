@@ -1,0 +1,7390 @@
+{
+    "content": [
+        {
+            "x": false,
+            "id": 65357,
+            "category": "Barba fuera de control pero pelo perfecto"
+        },
+        {
+            "x": false,
+            "id": 65358,
+            "category": "<RANDOM_PLAYER_NAME> baila a lo loco"
+        },
+        {
+            "x": false,
+            "id": 65359,
+            "category": "¿Te ducharás de una vez?"
+        },
+        {
+            "x": false,
+            "id": 65360,
+            "category": "Pulgares con pulgares"
+        },
+        {
+            "x": false,
+            "id": 65361,
+            "category": "3 Sherlock Holmes"
+        },
+        {
+            "x": true,
+            "id": 65362,
+            "category": "Muerte por trombón"
+        },
+        {
+            "x": false,
+            "id": 65363,
+            "category": "Podcast a media noche"
+        },
+        {
+            "x": false,
+            "id": 65364,
+            "category": "Bebé mago"
+        },
+        {
+            "x": false,
+            "id": 65365,
+            "category": "Esta camiseta gratis me cambió la vida"
+        },
+        {
+            "x": false,
+            "id": 65366,
+            "category": "Tengo que ir clase de dibujo"
+        },
+        {
+            "x": false,
+            "id": 65367,
+            "category": "¡He-man!"
+        },
+        {
+            "x": false,
+            "id": 65368,
+            "category": "El peor xman"
+        },
+        {
+            "x": false,
+            "id": 65369,
+            "category": "Que alguien llame a Recursos Humanos"
+        },
+        {
+            "x": false,
+            "id": 65370,
+            "category": "A quién le importa"
+        },
+        {
+            "x": true,
+            "id": 65371,
+            "category": "La abuela está que arde"
+        },
+        {
+            "x": false,
+            "id": 65372,
+            "category": "El cactus es una mano"
+        },
+        {
+            "x": false,
+            "id": 65373,
+            "category": "Me gusta respirar"
+        },
+        {
+            "x": true,
+            "id": 65374,
+            "category": "Todas las focas van al cielo"
+        },
+        {
+            "x": true,
+            "id": 65375,
+            "category": "Soy el que está hecho polvo en la foto"
+        },
+        {
+            "x": false,
+            "id": 65376,
+            "category": "Tortilla "
+        },
+        {
+            "x": false,
+            "id": 65377,
+            "category": "Una broma al alcalde"
+        },
+        {
+            "x": false,
+            "id": 65378,
+            "category": "Fiordo"
+        },
+        {
+            "x": false,
+            "id": 65379,
+            "category": "Pies de tractor"
+        },
+        {
+            "x": false,
+            "id": 65380,
+            "category": "La lista negra"
+        },
+        {
+            "x": false,
+            "id": 65381,
+            "category": "La cena para desayunar"
+        },
+        {
+            "x": false,
+            "id": 65382,
+            "category": "50 y de fábula"
+        },
+        {
+            "x": true,
+            "id": 65383,
+            "category": "Lo que ve Dios cuando se mira al espejo"
+        },
+        {
+            "x": false,
+            "id": 65384,
+            "category": "Camello con cuatro jorobas"
+        },
+        {
+            "x": false,
+            "id": 65385,
+            "category": "Viejo cantante de jazz"
+        },
+        {
+            "x": false,
+            "id": 65386,
+            "category": "Experto en redes sociales"
+        },
+        {
+            "x": false,
+            "id": 65387,
+            "category": "No despiertes a papá"
+        },
+        {
+            "x": false,
+            "id": 65388,
+            "category": "Pata de jamón en la cama"
+        },
+        {
+            "x": false,
+            "id": 65389,
+            "category": "Árbol de bonito"
+        },
+        {
+            "x": false,
+            "id": 65390,
+            "category": "Jueza desquiciada"
+        },
+        {
+            "x": false,
+            "id": 65391,
+            "category": "¡Ese no es mi médico!"
+        },
+        {
+            "x": false,
+            "id": 65392,
+            "category": "Un kebab en una bolsa"
+        },
+        {
+            "x": false,
+            "id": 65393,
+            "category": "Cárcel de cebras"
+        },
+        {
+            "x": false,
+            "id": 65394,
+            "category": "Video deportivo"
+        },
+        {
+            "x": false,
+            "id": 65395,
+            "category": "Comerse la almohada"
+        },
+        {
+            "x": false,
+            "id": 65396,
+            "category": "Ley sueca"
+        },
+        {
+            "x": true,
+            "id": 65397,
+            "category": "Recién divorciado"
+        },
+        {
+            "x": false,
+            "id": 65398,
+            "category": "Fiesta de rábanos"
+        },
+        {
+            "x": false,
+            "id": 65399,
+            "category": "Elegante pero informal"
+        },
+        {
+            "x": false,
+            "id": 65400,
+            "category": "Director financiero"
+        },
+        {
+            "x": false,
+            "id": 65401,
+            "category": "Salmón ahumado"
+        },
+        {
+            "x": false,
+            "id": 65402,
+            "category": "Un papá genial"
+        },
+        {
+            "x": false,
+            "id": 65403,
+            "category": "Mario Bros. aplaudiendo"
+        },
+        {
+            "x": false,
+            "id": 65404,
+            "category": "Muerte por chocolate"
+        },
+        {
+            "x": false,
+            "id": 65405,
+            "category": "Me asusta la hierba"
+        },
+        {
+            "x": false,
+            "id": 65407,
+            "category": "Pelea de cucharas"
+        },
+        {
+            "x": false,
+            "id": 65408,
+            "category": "Un brindis por Drácula"
+        },
+        {
+            "x": false,
+            "id": 65409,
+            "category": "Te huele el aliento"
+        },
+        {
+            "x": false,
+            "id": 65410,
+            "category": "Un coxis roto"
+        },
+        {
+            "x": false,
+            "id": 65411,
+            "category": "Una factura muy larga"
+        },
+        {
+            "x": false,
+            "id": 65412,
+            "category": "¡Lluvia ácida!"
+        },
+        {
+            "x": false,
+            "id": 65413,
+            "category": "Una boda de ciencia ficción"
+        },
+        {
+            "x": false,
+            "id": 65414,
+            "category": "Una escena de Macbeth"
+        },
+        {
+            "x": false,
+            "id": 65415,
+            "category": "Llorando centavos"
+        },
+        {
+            "x": false,
+            "id": 65416,
+            "category": "Vendedor de tacos ambulante"
+        },
+        {
+            "x": false,
+            "id": 65417,
+            "category": "Una sopa exquisita"
+        },
+        {
+            "x": false,
+            "id": 65418,
+            "category": "Te brillan las playeras"
+        },
+        {
+            "x": false,
+            "id": 65419,
+            "category": "Un limón en un mundo de naranjas"
+        },
+        {
+            "x": false,
+            "id": 65420,
+            "category": "Calcetines con chanclas"
+        },
+        {
+            "x": false,
+            "id": 65421,
+            "category": "Un puercoespín calvo"
+        },
+        {
+            "x": false,
+            "id": 65422,
+            "category": "Llueve algodón de azúcar"
+        },
+        {
+            "x": false,
+            "id": 65423,
+            "category": "Dientes de metal"
+        },
+        {
+            "x": false,
+            "id": 65424,
+            "category": "Que sábanas más bonitas"
+        },
+        {
+            "x": false,
+            "id": 65425,
+            "category": "Rasca y huele"
+        },
+        {
+            "x": false,
+            "id": 65426,
+            "category": "Queso de contrabando"
+        },
+        {
+            "x": false,
+            "id": 65427,
+            "category": "Fallo de Photoshop"
+        },
+        {
+            "x": false,
+            "id": 65428,
+            "category": "Un tupé"
+        },
+        {
+            "x": false,
+            "id": 65429,
+            "category": "Comerse una cebolla"
+        },
+        {
+            "x": false,
+            "id": 65430,
+            "category": "Cristóbal Colón usa internet "
+        },
+        {
+            "x": false,
+            "id": 65431,
+            "category": "Un boli invisible"
+        },
+        {
+            "x": false,
+            "id": 65432,
+            "category": "Lágrimas de felicidad"
+        },
+        {
+            "x": false,
+            "id": 65433,
+            "category": "Sin aliento"
+        },
+        {
+            "x": false,
+            "id": 65434,
+            "category": "Lanzar albóndigas"
+        },
+        {
+            "x": false,
+            "id": 65435,
+            "category": "Ensalada de pescado"
+        },
+        {
+            "x": false,
+            "id": 65436,
+            "category": "Bloqueador de sitios web"
+        },
+        {
+            "x": false,
+            "id": 65437,
+            "category": "Espiar al vecino"
+        },
+        {
+            "x": false,
+            "id": 65438,
+            "category": "Abrazo a una cabra"
+        },
+        {
+            "x": false,
+            "id": 65439,
+            "category": "Pagamos a medias"
+        },
+        {
+            "x": false,
+            "id": 65440,
+            "category": "Refugio para la guerra atómica"
+        },
+        {
+            "x": false,
+            "id": 65441,
+            "category": "Marvin el marciano se derrite"
+        },
+        {
+            "x": false,
+            "id": 65442,
+            "category": "Tarjeta de crédito denegada"
+        },
+        {
+            "x": false,
+            "id": 65443,
+            "category": "Ataque de pánico en la tienda"
+        },
+        {
+            "x": false,
+            "id": 65444,
+            "category": "El rey de internet"
+        },
+        {
+            "x": true,
+            "id": 65445,
+            "category": "Dos mujeres borrachas"
+        },
+        {
+            "x": true,
+            "id": 65446,
+            "category": "Puñetazo al pez"
+        },
+        {
+            "x": true,
+            "id": 65447,
+            "category": "Hurgarte la nariz con un cuchillo"
+        },
+        {
+            "x": true,
+            "id": 65449,
+            "category": "Test de alergia"
+        },
+        {
+            "x": true,
+            "id": 65450,
+            "category": "Me ahogo en la piscina de bolas"
+        },
+        {
+            "x": false,
+            "id": 65451,
+            "category": "Una notificación"
+        },
+        {
+            "x": false,
+            "id": 65452,
+            "category": "Se quema el aceite"
+        },
+        {
+            "x": false,
+            "id": 65453,
+            "category": "Todos en esta reunión están enfadados"
+        },
+        {
+            "x": true,
+            "id": 65454,
+            "category": "Eructo invertido"
+        },
+        {
+            "x": true,
+            "id": 65455,
+            "category": "Supositorio"
+        },
+        {
+            "x": false,
+            "id": 65456,
+            "category": "Curling"
+        },
+        {
+            "x": false,
+            "id": 65457,
+            "category": "¡Cuántos cereales!"
+        },
+        {
+            "x": false,
+            "id": 65458,
+            "category": "Vaqueros de bebé"
+        },
+        {
+            "x": false,
+            "id": 65459,
+            "category": "La Primera Guerra Mundial"
+        },
+        {
+            "x": false,
+            "id": 65460,
+            "category": "La llamada"
+        },
+        {
+            "x": false,
+            "id": 65461,
+            "category": "Fular"
+        },
+        {
+            "x": true,
+            "id": 65462,
+            "category": "Dos puntos grandes y un plátano"
+        },
+        {
+            "x": false,
+            "id": 65463,
+            "category": "Un secador extraño"
+        },
+        {
+            "x": false,
+            "id": 65464,
+            "category": "Fallar en el detector de mentiras"
+        },
+        {
+            "x": false,
+            "id": 65465,
+            "category": "Superzanahorias"
+        },
+        {
+            "x": false,
+            "id": 65466,
+            "category": "17 centavos"
+        },
+        {
+            "x": false,
+            "id": 65467,
+            "category": "El ilusionista"
+        },
+        {
+            "x": false,
+            "id": 65468,
+            "category": "Un minuto de silencio"
+        },
+        {
+            "x": false,
+            "id": 65469,
+            "category": "Rozaduras"
+        },
+        {
+            "x": false,
+            "id": 65470,
+            "category": "Chili muy picante"
+        },
+        {
+            "x": false,
+            "id": 65471,
+            "category": "Microsoft Excel"
+        },
+        {
+            "x": false,
+            "id": 65472,
+            "category": "Un cartel de motivación malo"
+        },
+        {
+            "x": false,
+            "id": 65473,
+            "category": "Mallas para yoga"
+        },
+        {
+            "x": false,
+            "id": 65474,
+            "category": "Juzgar en silencio"
+        },
+        {
+            "x": false,
+            "id": 65475,
+            "category": "Una barba ardiendo"
+        },
+        {
+            "x": false,
+            "id": 65476,
+            "category": "Ir a la cama temprano"
+        },
+        {
+            "x": false,
+            "id": 65477,
+            "category": "Una pamela"
+        },
+        {
+            "x": false,
+            "id": 65478,
+            "category": "El campeón de internet"
+        },
+        {
+            "x": false,
+            "id": 65479,
+            "category": "Festival en la iglesia"
+        },
+        {
+            "x": false,
+            "id": 65480,
+            "category": "Un soplador de vidrio"
+        },
+        {
+            "x": false,
+            "id": 65481,
+            "category": "Un tipo genial se marca un solo de silbato"
+        },
+        {
+            "x": false,
+            "id": 65482,
+            "category": "El tiempo entre costuras"
+        },
+        {
+            "x": false,
+            "id": 65483,
+            "category": "Negligencia médica"
+        },
+        {
+            "x": false,
+            "id": 65484,
+            "category": "Duro de matar 3"
+        },
+        {
+            "x": false,
+            "id": 65485,
+            "category": "Perder músculo"
+        },
+        {
+            "x": false,
+            "id": 65486,
+            "category": "Monstruo mimosín"
+        },
+        {
+            "x": false,
+            "id": 65487,
+            "category": "Dos hombres entran, tres salen"
+        },
+        {
+            "x": false,
+            "id": 65488,
+            "category": "Fans de la lucha libre"
+        },
+        {
+            "x": false,
+            "id": 65489,
+            "category": "Un sujetavelas"
+        },
+        {
+            "x": false,
+            "id": 65490,
+            "category": "Almax"
+        },
+        {
+            "x": false,
+            "id": 65491,
+            "category": "Un granjero que cultiva ropa"
+        },
+        {
+            "x": false,
+            "id": 65492,
+            "category": "Los pijamas de la cárcel"
+        },
+        {
+            "x": true,
+            "id": 65493,
+            "category": "Un pelo en mi sándwich"
+        },
+        {
+            "x": false,
+            "id": 65494,
+            "category": "El sabiondo"
+        },
+        {
+            "x": false,
+            "id": 65495,
+            "category": "¿A ti te parece que la leche está mala?"
+        },
+        {
+            "x": true,
+            "id": 65496,
+            "category": "Un beso con lengua"
+        },
+        {
+            "x": false,
+            "id": 65497,
+            "category": "Joaquín Sabina en una montaña rusa"
+        },
+        {
+            "x": false,
+            "id": 65498,
+            "category": "Una morsa en tanga"
+        },
+        {
+            "x": false,
+            "id": 65499,
+            "category": "Una tirita usada"
+        },
+        {
+            "x": false,
+            "id": 65500,
+            "category": "Fiesta de sopa"
+        },
+        {
+            "x": false,
+            "id": 65501,
+            "category": "Bebé jirafa"
+        },
+        {
+            "x": false,
+            "id": 65502,
+            "category": "Un secuaz"
+        },
+        {
+            "x": false,
+            "id": 65503,
+            "category": "Cine negro"
+        },
+        {
+            "x": true,
+            "id": 65504,
+            "category": "Baño de burbujas"
+        },
+        {
+            "x": false,
+            "id": 65505,
+            "category": "Un mal peinado"
+        },
+        {
+            "x": false,
+            "id": 65506,
+            "category": "Ático"
+        },
+        {
+            "x": false,
+            "id": 65507,
+            "category": "Citas rápidas"
+        },
+        {
+            "x": true,
+            "id": 65508,
+            "category": "Solteros sexis en tu zona"
+        },
+        {
+            "x": false,
+            "id": 65509,
+            "category": "Dado de 12 caras"
+        },
+        {
+            "x": false,
+            "id": 65510,
+            "category": "Recoger tapones solidarios"
+        },
+        {
+            "x": true,
+            "id": 65511,
+            "category": "Soplar notas musicales"
+        },
+        {
+            "x": false,
+            "id": 65513,
+            "category": "Cuchara sopera junto a una de té"
+        },
+        {
+            "x": false,
+            "id": 65514,
+            "category": "Una bolsa de pruebas"
+        },
+        {
+            "x": false,
+            "id": 65515,
+            "category": "Un mirón"
+        },
+        {
+            "x": false,
+            "id": 65516,
+            "category": "Pelusas"
+        },
+        {
+            "x": false,
+            "id": 65517,
+            "category": "Estoy atascado en una dona"
+        },
+        {
+            "x": false,
+            "id": 65518,
+            "category": "La ambulancia va en sentido contrario"
+        },
+        {
+            "x": false,
+            "id": 65520,
+            "category": "Tres granos de arena"
+        },
+        {
+            "x": false,
+            "id": 65521,
+            "category": "Cita con sushi"
+        },
+        {
+            "x": false,
+            "id": 65522,
+            "category": "La naranja mecánica"
+        },
+        {
+            "x": false,
+            "id": 65523,
+            "category": "Taquillas de gimnasio"
+        },
+        {
+            "x": false,
+            "id": 65524,
+            "category": "Equipo de noticias matutino"
+        },
+        {
+            "x": true,
+            "id": 65525,
+            "category": "Aceite para culturistas"
+        },
+        {
+            "x": false,
+            "id": 65526,
+            "category": "Steven Spielberg"
+        },
+        {
+            "x": true,
+            "id": 65527,
+            "category": "Detienen a Mary Poppins"
+        },
+        {
+            "x": false,
+            "id": 65528,
+            "category": "Tres alitas de pollo sazonadas"
+        },
+        {
+            "x": false,
+            "id": 65529,
+            "category": "Deliciosas fresas de pica pica"
+        },
+        {
+            "x": false,
+            "id": 65530,
+            "category": "Risa falsa"
+        },
+        {
+            "x": false,
+            "id": 65531,
+            "category": "Hueles a piruleta de fresa"
+        },
+        {
+            "x": false,
+            "id": 65532,
+            "category": "Un hombre sin sentimientos"
+        },
+        {
+            "x": false,
+            "id": 65533,
+            "category": "Piel de gallina"
+        },
+        {
+            "x": false,
+            "id": 65534,
+            "category": "Usuario de Pinterest"
+        },
+        {
+            "x": false,
+            "id": 65535,
+            "category": "El nacimiento de una vaca"
+        },
+        {
+            "x": true,
+            "id": 65536,
+            "category": "Muerte en el laberinto"
+        },
+        {
+            "x": false,
+            "id": 65537,
+            "category": "Me colé en una fiesta"
+        },
+        {
+            "x": false,
+            "id": 65538,
+            "category": "Alergia a la pizza"
+        },
+        {
+            "x": false,
+            "id": 65539,
+            "category": "Llamar al servicio técnico "
+        },
+        {
+            "x": false,
+            "id": 65540,
+            "category": "El presidente Freddy Krueger"
+        },
+        {
+            "x": false,
+            "id": 65541,
+            "category": "Dos tontos muy tontos"
+        },
+        {
+            "x": false,
+            "id": 65542,
+            "category": "Medio dormido"
+        },
+        {
+            "x": false,
+            "id": 65543,
+            "category": "Cómo se hace la Coca-Cola"
+        },
+        {
+            "x": false,
+            "id": 65544,
+            "category": "Sarcasmo"
+        },
+        {
+            "x": false,
+            "id": 65545,
+            "category": "Súper esqueleto"
+        },
+        {
+            "x": false,
+            "id": 65546,
+            "category": "Hechizo de amor fallido"
+        },
+        {
+            "x": false,
+            "id": 65547,
+            "category": "Comerse una piña"
+        },
+        {
+            "x": false,
+            "id": 65548,
+            "category": "Asistencia en carretera"
+        },
+        {
+            "x": true,
+            "id": 65549,
+            "category": "Sopa de dedos"
+        },
+        {
+            "x": false,
+            "id": 65550,
+            "category": "No encesté el mate"
+        },
+        {
+            "x": false,
+            "id": 65551,
+            "category": "Veterinario al rescate"
+        },
+        {
+            "x": false,
+            "id": 65552,
+            "category": "Un bebé importante"
+        },
+        {
+            "x": true,
+            "id": 65553,
+            "category": "El sujetador apesta"
+        },
+        {
+            "x": false,
+            "id": 65554,
+            "category": "No tocar la manta"
+        },
+        {
+            "x": false,
+            "id": 65555,
+            "category": "Policía científica"
+        },
+        {
+            "x": false,
+            "id": 65556,
+            "category": "Buen olor"
+        },
+        {
+            "x": false,
+            "id": 65557,
+            "category": "Una uña muy larga"
+        },
+        {
+            "x": false,
+            "id": 65558,
+            "category": "Algo escalofriante"
+        },
+        {
+            "x": false,
+            "id": 65559,
+            "category": "No confío en esa nube"
+        },
+        {
+            "x": false,
+            "id": 65560,
+            "category": "Jimmy Fallon"
+        },
+        {
+            "x": false,
+            "id": 65561,
+            "category": "Tierra firme"
+        },
+        {
+            "x": false,
+            "id": 65562,
+            "category": "Soborno"
+        },
+        {
+            "x": false,
+            "id": 65563,
+            "category": "Un funeral vikingo"
+        },
+        {
+            "x": false,
+            "id": 65564,
+            "category": "Alcatraz"
+        },
+        {
+            "x": false,
+            "id": 65565,
+            "category": "Un microondas de madera"
+        },
+        {
+            "x": false,
+            "id": 65566,
+            "category": "Atracón de comida"
+        },
+        {
+            "x": false,
+            "id": 65567,
+            "category": "¡No soy una bruja!"
+        },
+        {
+            "x": false,
+            "id": 65568,
+            "category": "Todos están mirando el celular"
+        },
+        {
+            "x": false,
+            "id": 65569,
+            "category": "Una estrella de YouTube"
+        },
+        {
+            "x": true,
+            "id": 65570,
+            "category": "Cagarse de miedo"
+        },
+        {
+            "x": false,
+            "id": 65571,
+            "category": "Con cuernos y a lo loco"
+        },
+        {
+            "x": false,
+            "id": 65572,
+            "category": "Bedel mágico"
+        },
+        {
+            "x": false,
+            "id": 65573,
+            "category": "Beber el líquido de una bola de cristal"
+        },
+        {
+            "x": false,
+            "id": 65574,
+            "category": "Ir al gimnasio sin presumir"
+        },
+        {
+            "x": false,
+            "id": 65575,
+            "category": "Melodrama"
+        },
+        {
+            "x": false,
+            "id": 65577,
+            "category": "Calabazas decorativas"
+        },
+        {
+            "x": false,
+            "id": 65578,
+            "category": "El cumpleaños de RoboCop"
+        },
+        {
+            "x": false,
+            "id": 65579,
+            "category": "Grasa"
+        },
+        {
+            "x": false,
+            "id": 65580,
+            "category": "Pantalones sin arrugas"
+        },
+        {
+            "x": false,
+            "id": 65581,
+            "category": "Copos de nieve idénticos"
+        },
+        {
+            "x": false,
+            "id": 65582,
+            "category": "100% sarcasmo"
+        },
+        {
+            "x": false,
+            "id": 65583,
+            "category": "Nadar en lava"
+        },
+        {
+            "x": false,
+            "id": 65584,
+            "category": "En bicicleta por la luna"
+        },
+        {
+            "x": false,
+            "id": 65585,
+            "category": "Telegrama cantado"
+        },
+        {
+            "x": false,
+            "id": 65586,
+            "category": "Romperse los tobillos"
+        },
+        {
+            "x": false,
+            "id": 65587,
+            "category": "Brumoso"
+        },
+        {
+            "x": false,
+            "id": 65588,
+            "category": "Calor seco"
+        },
+        {
+            "x": false,
+            "id": 65589,
+            "category": "Maldición gitana"
+        },
+        {
+            "x": false,
+            "id": 65590,
+            "category": "San Valentín"
+        },
+        {
+            "x": false,
+            "id": 65591,
+            "category": "Ratita presumida"
+        },
+        {
+            "x": false,
+            "id": 65592,
+            "category": "Ensalada de pasta y una serpiente"
+        },
+        {
+            "x": true,
+            "id": 65593,
+            "category": "Crema para pezones"
+        },
+        {
+            "x": false,
+            "id": 65594,
+            "category": "Una grúa que se cae"
+        },
+        {
+            "x": true,
+            "id": 65595,
+            "category": "Paraguas espada"
+        },
+        {
+            "x": false,
+            "id": 65596,
+            "category": "Voy a defender mi trompeta"
+        },
+        {
+            "x": false,
+            "id": 65597,
+            "category": "Imprudente"
+        },
+        {
+            "x": false,
+            "id": 65598,
+            "category": "Entrenador personal del sueño"
+        },
+        {
+            "x": false,
+            "id": 65599,
+            "category": "El banco en el que me enamoré"
+        },
+        {
+            "x": false,
+            "id": 65600,
+            "category": "Lluvia de ideas"
+        },
+        {
+            "x": true,
+            "id": 65601,
+            "category": "Sal y limón"
+        },
+        {
+            "x": false,
+            "id": 65602,
+            "category": "Un mal diseño de las vías del tren"
+        },
+        {
+            "x": true,
+            "id": 65603,
+            "category": "Envenenamiento por monóxido de carbono"
+        },
+        {
+            "x": false,
+            "id": 65604,
+            "category": "¡No caves ahí!"
+        },
+        {
+            "x": true,
+            "id": 65605,
+            "category": "Stripper masculino"
+        },
+        {
+            "x": true,
+            "id": 65606,
+            "category": "El camión de mi padrastro"
+        },
+        {
+            "x": false,
+            "id": 65607,
+            "category": "Pilar de sal"
+        },
+        {
+            "x": false,
+            "id": 65608,
+            "category": "Profesor universitario"
+        },
+        {
+            "x": false,
+            "id": 65609,
+            "category": "A veces veo franceses"
+        },
+        {
+            "x": false,
+            "id": 65610,
+            "category": "Amigas gárgolas"
+        },
+        {
+            "x": false,
+            "id": 65611,
+            "category": "Un aplauso para los del catering"
+        },
+        {
+            "x": false,
+            "id": 65612,
+            "category": "Voy a hacer que tu cuerpo levite"
+        },
+        {
+            "x": false,
+            "id": 65613,
+            "category": "Un anciano les grita a las nubes"
+        },
+        {
+            "x": false,
+            "id": 65614,
+            "category": "Paquete de tristeza"
+        },
+        {
+            "x": false,
+            "id": 65615,
+            "category": "Un águila con parche"
+        },
+        {
+            "x": false,
+            "id": 65616,
+            "category": "Echar mantequilla en la axila"
+        },
+        {
+            "x": false,
+            "id": 65617,
+            "category": "La barbería"
+        },
+        {
+            "x": false,
+            "id": 65618,
+            "category": "Teclado de la tostadora "
+        },
+        {
+            "x": false,
+            "id": 65619,
+            "category": "Me echaron de la cama del perro"
+        },
+        {
+            "x": false,
+            "id": 65620,
+            "category": "Compañeros peludos"
+        },
+        {
+            "x": false,
+            "id": 65621,
+            "category": "Cuidado con los brazos de la pared"
+        },
+        {
+            "x": true,
+            "id": 65622,
+            "category": "Arma de fogueo"
+        },
+        {
+            "x": true,
+            "id": 65623,
+            "category": "El retrete del rey"
+        },
+        {
+            "x": false,
+            "id": 65624,
+            "category": "Disfruta de la música"
+        },
+        {
+            "x": false,
+            "id": 65625,
+            "category": "Mediterráneo"
+        },
+        {
+            "x": true,
+            "id": 65626,
+            "category": "Demasiada testosterona"
+        },
+        {
+            "x": false,
+            "id": 65627,
+            "category": "Comida británica"
+        },
+        {
+            "x": false,
+            "id": 65628,
+            "category": "El almacén de pruebas"
+        },
+        {
+            "x": false,
+            "id": 65629,
+            "category": "No confío en este autoestopista"
+        },
+        {
+            "x": false,
+            "id": 65630,
+            "category": "Antes de operar"
+        },
+        {
+            "x": false,
+            "id": 65631,
+            "category": "Información privilegiada"
+        },
+        {
+            "x": false,
+            "id": 65632,
+            "category": "Hacer mermelada"
+        },
+        {
+            "x": false,
+            "id": 65633,
+            "category": "20 puntos"
+        },
+        {
+            "x": true,
+            "id": 65634,
+            "category": "Río de sangre"
+        },
+        {
+            "x": false,
+            "id": 65635,
+            "category": "Revuelta en el asilo"
+        },
+        {
+            "x": false,
+            "id": 65637,
+            "category": "Un saltamontes curioso"
+        },
+        {
+            "x": false,
+            "id": 65636,
+            "category": "Antes muerta que sencilla"
+        },
+        {
+            "x": true,
+            "id": 65638,
+            "category": "Muerte por bola de arroz"
+        },
+        {
+            "x": false,
+            "id": 65639,
+            "category": "Papá Noel lleva una bolsa de basura"
+        },
+        {
+            "x": false,
+            "id": 65640,
+            "category": "Una z sobre un círculo"
+        },
+        {
+            "x": false,
+            "id": 65641,
+            "category": "Puerta secreta"
+        },
+        {
+            "x": false,
+            "id": 65642,
+            "category": "Pelo suelto"
+        },
+        {
+            "x": false,
+            "id": 65643,
+            "category": "Tailandia"
+        },
+        {
+            "x": false,
+            "id": 65644,
+            "category": "Un banco griego"
+        },
+        {
+            "x": false,
+            "id": 65645,
+            "category": "Un hombre danés"
+        },
+        {
+            "x": false,
+            "id": 65646,
+            "category": "Poli de brunch"
+        },
+        {
+            "x": false,
+            "id": 65647,
+            "category": "Un apartamento en Nueva York"
+        },
+        {
+            "x": false,
+            "id": 65648,
+            "category": "¡Es una picadura!"
+        },
+        {
+            "x": false,
+            "id": 65649,
+            "category": "Viajar por un agujero de gusano"
+        },
+        {
+            "x": false,
+            "id": 65650,
+            "category": "Un bazo"
+        },
+        {
+            "x": false,
+            "id": 65651,
+            "category": "Osito relleno de dinero"
+        },
+        {
+            "x": false,
+            "id": 65652,
+            "category": "Sin pestañas"
+        },
+        {
+            "x": true,
+            "id": 65653,
+            "category": "Robert Downey Jr."
+        },
+        {
+            "x": false,
+            "id": 65654,
+            "category": "Bulldog francés"
+        },
+        {
+            "x": false,
+            "id": 65655,
+            "category": "Un dinosaurio con una corbata fina"
+        },
+        {
+            "x": false,
+            "id": 65656,
+            "category": "Mal comedor"
+        },
+        {
+            "x": false,
+            "id": 65657,
+            "category": "Una sirena con mal aliento"
+        },
+        {
+            "x": false,
+            "id": 65658,
+            "category": "Un niño"
+        },
+        {
+            "x": false,
+            "id": 65659,
+            "category": "Cartero atractivo"
+        },
+        {
+            "x": false,
+            "id": 65660,
+            "category": "Cámara web"
+        },
+        {
+            "x": false,
+            "id": 65661,
+            "category": "Salgo con un pollo"
+        },
+        {
+            "x": false,
+            "id": 65662,
+            "category": "Médico de pueblo"
+        },
+        {
+            "x": false,
+            "id": 65663,
+            "category": "Beber el agua de la bañera"
+        },
+        {
+            "x": false,
+            "id": 65664,
+            "category": "Entra en el horno"
+        },
+        {
+            "x": false,
+            "id": 65665,
+            "category": "Pleno del Congreso"
+        },
+        {
+            "x": true,
+            "id": 65666,
+            "category": "Una cesárea"
+        },
+        {
+            "x": false,
+            "id": 65667,
+            "category": "Lluvia radiactiva"
+        },
+        {
+            "x": false,
+            "id": 65668,
+            "category": "Tiempos locos"
+        },
+        {
+            "x": false,
+            "id": 65669,
+            "category": "Maluma"
+        },
+        {
+            "x": false,
+            "id": 65670,
+            "category": "Voleibol"
+        },
+        {
+            "x": false,
+            "id": 65671,
+            "category": "El Everest"
+        },
+        {
+            "x": false,
+            "id": 65672,
+            "category": "Un motín"
+        },
+        {
+            "x": false,
+            "id": 65673,
+            "category": "Barba de pistolero"
+        },
+        {
+            "x": false,
+            "id": 65674,
+            "category": "Un tanque eléctrico"
+        },
+        {
+            "x": false,
+            "id": 65675,
+            "category": "Espada pistola"
+        },
+        {
+            "x": false,
+            "id": 65676,
+            "category": "Antonio Banderas se cuela en una fiesta"
+        },
+        {
+            "x": false,
+            "id": 65677,
+            "category": "Mitad hombre, mitad excavadora"
+        },
+        {
+            "x": false,
+            "id": 65678,
+            "category": "Un piso de soltero"
+        },
+        {
+            "x": false,
+            "id": 65679,
+            "category": "Jar Jar Binks"
+        },
+        {
+            "x": false,
+            "id": 65680,
+            "category": "Distorsión de sonido"
+        },
+        {
+            "x": false,
+            "id": 65681,
+            "category": "Gemelos macabros"
+        },
+        {
+            "x": false,
+            "id": 65682,
+            "category": "Nepotismo"
+        },
+        {
+            "x": false,
+            "id": 65683,
+            "category": "Mala atención al cliente"
+        },
+        {
+            "x": false,
+            "id": 65684,
+            "category": "Un árbol pequeño junto a brócoli"
+        },
+        {
+            "x": false,
+            "id": 65685,
+            "category": "El rincón de la vergüenza"
+        },
+        {
+            "x": false,
+            "id": 65686,
+            "category": "Esta es una zona libre de pizza"
+        },
+        {
+            "x": false,
+            "id": 65687,
+            "category": "Hombre lobo en silla de ruedas"
+        },
+        {
+            "x": false,
+            "id": 65688,
+            "category": "Conjuntivitis"
+        },
+        {
+            "x": false,
+            "id": 65689,
+            "category": "Un impostor"
+        },
+        {
+            "x": true,
+            "id": 65690,
+            "category": "Aguantarse un pedo"
+        },
+        {
+            "x": false,
+            "id": 65691,
+            "category": "Una cara al revés"
+        },
+        {
+            "x": true,
+            "id": 65692,
+            "category": "Fetichista de puertas"
+        },
+        {
+            "x": false,
+            "id": 65693,
+            "category": "Huevo de dragón"
+        },
+        {
+            "x": false,
+            "id": 65694,
+            "category": "Bruma mental"
+        },
+        {
+            "x": false,
+            "id": 65695,
+            "category": "Me siento vacío por dentro"
+        },
+        {
+            "x": false,
+            "id": 65696,
+            "category": "Jurado sin acuerdo"
+        },
+        {
+            "x": false,
+            "id": 65697,
+            "category": "Un accidente con la espuma de afeitar"
+        },
+        {
+            "x": false,
+            "id": 65698,
+            "category": "Muchas barbillas"
+        },
+        {
+            "x": false,
+            "id": 65699,
+            "category": "Teen Wolf Dos"
+        },
+        {
+            "x": false,
+            "id": 65700,
+            "category": "Nos mudamos a Alaska"
+        },
+        {
+            "x": false,
+            "id": 65701,
+            "category": "Soy horrible en mímica"
+        },
+        {
+            "x": false,
+            "id": 65702,
+            "category": "Moño masculino"
+        },
+        {
+            "x": false,
+            "id": 65703,
+            "category": "El rey del barro"
+        },
+        {
+            "x": false,
+            "id": 65704,
+            "category": "Por favor, quiéranme"
+        },
+        {
+            "x": true,
+            "id": 65705,
+            "category": "Mini pantalones cortos"
+        },
+        {
+            "x": false,
+            "id": 65706,
+            "category": "Reloj tobillero"
+        },
+        {
+            "x": false,
+            "id": 65707,
+            "category": "Mi ombligo es una rosquilla"
+        },
+        {
+            "x": false,
+            "id": 65708,
+            "category": "Basura de zoo"
+        },
+        {
+            "x": true,
+            "id": 65709,
+            "category": "Isla de vómito"
+        },
+        {
+            "x": false,
+            "id": 65710,
+            "category": "Bombero de incógnito"
+        },
+        {
+            "x": false,
+            "id": 65711,
+            "category": "Un casero malvado"
+        },
+        {
+            "x": false,
+            "id": 65712,
+            "category": "Tarta vegana"
+        },
+        {
+            "x": false,
+            "id": 65713,
+            "category": "Chorizo congelado"
+        },
+        {
+            "x": false,
+            "id": 65714,
+            "category": "Empanadillas chinas"
+        },
+        {
+            "x": false,
+            "id": 65715,
+            "category": "Grupo de banjos"
+        },
+        {
+            "x": false,
+            "id": 65716,
+            "category": "Un \u201cskyline\u201d feo"
+        },
+        {
+            "x": false,
+            "id": 65718,
+            "category": "Miedo a la sopa"
+        },
+        {
+            "x": false,
+            "id": 65719,
+            "category": "Gemelo malvado"
+        },
+        {
+            "x": false,
+            "id": 65720,
+            "category": "Un documental sobre vallas"
+        },
+        {
+            "x": true,
+            "id": 65723,
+            "category": "Como crees que es un narguile"
+        },
+        {
+            "x": false,
+            "id": 65724,
+            "category": "Un lanzallamas roto"
+        },
+        {
+            "x": false,
+            "id": 65725,
+            "category": "La vida gira sin control"
+        },
+        {
+            "x": false,
+            "id": 65726,
+            "category": "Lo siento, me equivoqué"
+        },
+        {
+            "x": false,
+            "id": 65727,
+            "category": "Espejo de doble cara"
+        },
+        {
+            "x": false,
+            "id": 65728,
+            "category": "Lucha de espadas con pan"
+        },
+        {
+            "x": false,
+            "id": 65729,
+            "category": "Un imán roto"
+        },
+        {
+            "x": false,
+            "id": 65730,
+            "category": "Bota de vino"
+        },
+        {
+            "x": true,
+            "id": 65731,
+            "category": "¡Ni se te ocurra morirte!"
+        },
+        {
+            "x": false,
+            "id": 65732,
+            "category": "Rato de silencio con papá"
+        },
+        {
+            "x": false,
+            "id": 65721,
+            "category": "Pájaro mojado"
+        },
+        {
+            "x": false,
+            "id": 65733,
+            "category": "Todo el queso"
+        },
+        {
+            "x": false,
+            "id": 65734,
+            "category": "Perdedor número 1"
+        },
+        {
+            "x": false,
+            "id": 65735,
+            "category": "Sentimiento de jazz"
+        },
+        {
+            "x": false,
+            "id": 65736,
+            "category": "Recorte de uñas"
+        },
+        {
+            "x": true,
+            "id": 65737,
+            "category": "Guerra de bikinis"
+        },
+        {
+            "x": false,
+            "id": 65738,
+            "category": "La abuela baila breakdance"
+        },
+        {
+            "x": false,
+            "id": 65739,
+            "category": "Creo que hay una fuga de gas"
+        },
+        {
+            "x": true,
+            "id": 65740,
+            "category": "Caca, culo, pedo, pis"
+        },
+        {
+            "x": false,
+            "id": 65741,
+            "category": "Furgoneta secreta de rayos X"
+        },
+        {
+            "x": false,
+            "id": 65742,
+            "category": "La oficina mítica"
+        },
+        {
+            "x": false,
+            "id": 65743,
+            "category": "Un soldado con un aguacate"
+        },
+        {
+            "x": false,
+            "id": 65744,
+            "category": "No me arrepiento de nada"
+        },
+        {
+            "x": false,
+            "id": 65745,
+            "category": "Un pequeño dolor de cabeza"
+        },
+        {
+            "x": false,
+            "id": 65746,
+            "category": "Gimnasta con una flecha en la espalda"
+        },
+        {
+            "x": false,
+            "id": 65747,
+            "category": "Manos sudorosas"
+        },
+        {
+            "x": false,
+            "id": 65748,
+            "category": "Se acabó la luna de miel"
+        },
+        {
+            "x": false,
+            "id": 65749,
+            "category": "Lengua afilada"
+        },
+        {
+            "x": false,
+            "id": 65750,
+            "category": "La eternidad"
+        },
+        {
+            "x": false,
+            "id": 65751,
+            "category": "Medicina holística"
+        },
+        {
+            "x": false,
+            "id": 65752,
+            "category": "Soy terrible en karate"
+        },
+        {
+            "x": false,
+            "id": 65753,
+            "category": "Un portal mágico detrás de un Burger King"
+        },
+        {
+            "x": false,
+            "id": 65754,
+            "category": "Una piedra gritando"
+        },
+        {
+            "x": false,
+            "id": 65755,
+            "category": "Montar una bomba atómica"
+        },
+        {
+            "x": false,
+            "id": 65756,
+            "category": "Una habitación insonorizada"
+        },
+        {
+            "x": false,
+            "id": 65757,
+            "category": "Huesos asquerosos"
+        },
+        {
+            "x": true,
+            "id": 65758,
+            "category": "Mi amor y yo"
+        },
+        {
+            "x": false,
+            "id": 65759,
+            "category": "Moho"
+        },
+        {
+            "x": false,
+            "id": 65760,
+            "category": "¡Esta col es adictiva!"
+        },
+        {
+            "x": false,
+            "id": 65761,
+            "category": "El martillo de papá"
+        },
+        {
+            "x": false,
+            "id": 65762,
+            "category": "El ataúd resbala"
+        },
+        {
+            "x": false,
+            "id": 65764,
+            "category": "Amnesia"
+        },
+        {
+            "x": false,
+            "id": 65765,
+            "category": "Degustación de queso"
+        },
+        {
+            "x": false,
+            "id": 65766,
+            "category": "Impostor"
+        },
+        {
+            "x": false,
+            "id": 65768,
+            "category": "Un sobre lleno de arañas"
+        },
+        {
+            "x": false,
+            "id": 65769,
+            "category": "Mi sombra gorda"
+        },
+        {
+            "x": false,
+            "id": 65770,
+            "category": "Pausa"
+        },
+        {
+            "x": false,
+            "id": 65771,
+            "category": "Amigos en la cárcel"
+        },
+        {
+            "x": false,
+            "id": 65772,
+            "category": "Golf del futuro"
+        },
+        {
+            "x": false,
+            "id": 65773,
+            "category": "Una viga sobre el ordenador"
+        },
+        {
+            "x": false,
+            "id": 65774,
+            "category": "Moda de los 90"
+        },
+        {
+            "x": false,
+            "id": 65775,
+            "category": "El vacío"
+        },
+        {
+            "x": true,
+            "id": 65776,
+            "category": "Convención de peludos"
+        },
+        {
+            "x": false,
+            "id": 65777,
+            "category": "Guantes de ducha"
+        },
+        {
+            "x": false,
+            "id": 65778,
+            "category": "Aguantar el estornudo"
+        },
+        {
+            "x": false,
+            "id": 65779,
+            "category": "Fondo de sombrero"
+        },
+        {
+            "x": false,
+            "id": 65780,
+            "category": "Capa XL"
+        },
+        {
+            "x": false,
+            "id": 65781,
+            "category": "Ombligo diabólico"
+        },
+        {
+            "x": false,
+            "id": 65782,
+            "category": "Malos pensamientos"
+        },
+        {
+            "x": false,
+            "id": 65783,
+            "category": "Una línea entre zapato y peine"
+        },
+        {
+            "x": false,
+            "id": 65784,
+            "category": "Diamante falso"
+        },
+        {
+            "x": false,
+            "id": 65786,
+            "category": "Payaso no terrorífico"
+        },
+        {
+            "x": false,
+            "id": 65787,
+            "category": "Orejas con alas"
+        },
+        {
+            "x": false,
+            "id": 65788,
+            "category": "Internet lento"
+        },
+        {
+            "x": false,
+            "id": 65789,
+            "category": "Guiño"
+        },
+        {
+            "x": false,
+            "id": 65790,
+            "category": "¡Perritos para todos!"
+        },
+        {
+            "x": true,
+            "id": 65791,
+            "category": "Operación de cirugía estética"
+        },
+        {
+            "x": true,
+            "id": 65792,
+            "category": "La última del día"
+        },
+        {
+            "x": true,
+            "id": 65793,
+            "category": "Un dinosaurio con adicción al juego"
+        },
+        {
+            "x": false,
+            "id": 65794,
+            "category": "3 pulmones"
+        },
+        {
+            "x": false,
+            "id": 65795,
+            "category": "Yo, en un universo paralelo"
+        },
+        {
+            "x": false,
+            "id": 65796,
+            "category": "¡Noooooooooooooo!"
+        },
+        {
+            "x": true,
+            "id": 65797,
+            "category": "Muerte por hula hoop"
+        },
+        {
+            "x": false,
+            "id": 65798,
+            "category": "Esos zapatos que parecen pies"
+        },
+        {
+            "x": false,
+            "id": 65799,
+            "category": "Estrella gritando"
+        },
+        {
+            "x": false,
+            "id": 65800,
+            "category": "Hombre persigue su cola"
+        },
+        {
+            "x": false,
+            "id": 65801,
+            "category": "Pon el tocino en la carretilla"
+        },
+        {
+            "x": false,
+            "id": 65802,
+            "category": "Gafas espía"
+        },
+        {
+            "x": false,
+            "id": 65803,
+            "category": "Hilo dental en el suelo"
+        },
+        {
+            "x": false,
+            "id": 65804,
+            "category": "Policía fiestero"
+        },
+        {
+            "x": false,
+            "id": 65805,
+            "category": "Este tipo es un cobarde"
+        },
+        {
+            "x": false,
+            "id": 65806,
+            "category": "Nadando con gente mayor"
+        },
+        {
+            "x": false,
+            "id": 65807,
+            "category": "Hombre de otoño"
+        },
+        {
+            "x": false,
+            "id": 65808,
+            "category": "Una pintura siniestra"
+        },
+        {
+            "x": true,
+            "id": 65809,
+            "category": "Caca fantasma"
+        },
+        {
+            "x": false,
+            "id": 65810,
+            "category": "Doblar la lengua"
+        },
+        {
+            "x": false,
+            "id": 65811,
+            "category": "Visión doble"
+        },
+        {
+            "x": false,
+            "id": 65812,
+            "category": "Luna de sangre"
+        },
+        {
+            "x": false,
+            "id": 65813,
+            "category": "Fiesta de ropa fea"
+        },
+        {
+            "x": false,
+            "id": 65814,
+            "category": "Chismoso"
+        },
+        {
+            "x": false,
+            "id": 65815,
+            "category": "Una cresta triste"
+        },
+        {
+            "x": false,
+            "id": 65816,
+            "category": "Triángulos en barco"
+        },
+        {
+            "x": false,
+            "id": 65817,
+            "category": "Chica lobo"
+        },
+        {
+            "x": true,
+            "id": 65818,
+            "category": "Buscar el amor en el lugar equivocado"
+        },
+        {
+            "x": false,
+            "id": 65820,
+            "category": "Dinero suelto"
+        },
+        {
+            "x": false,
+            "id": 65821,
+            "category": "Un tractor mágico"
+        },
+        {
+            "x": false,
+            "id": 65822,
+            "category": "Mayordomo sin cabeza"
+        },
+        {
+            "x": false,
+            "id": 65823,
+            "category": "Experto en manchas de sangre"
+        },
+        {
+            "x": true,
+            "id": 65824,
+            "category": "Miniorinal"
+        },
+        {
+            "x": false,
+            "id": 65825,
+            "category": "Mamá genial"
+        },
+        {
+            "x": false,
+            "id": 65826,
+            "category": "Desenfocado"
+        },
+        {
+            "x": false,
+            "id": 65827,
+            "category": "Hombre con zanahoria gigante"
+        },
+        {
+            "x": false,
+            "id": 65828,
+            "category": "Puesta de sol fea"
+        },
+        {
+            "x": false,
+            "id": 65829,
+            "category": "Gritar al vacío"
+        },
+        {
+            "x": false,
+            "id": 65831,
+            "category": "Yogur griego"
+        },
+        {
+            "x": false,
+            "id": 65832,
+            "category": "Un garabato"
+        },
+        {
+            "x": false,
+            "id": 65833,
+            "category": "Gato falso"
+        },
+        {
+            "x": false,
+            "id": 65834,
+            "category": "Quinta comida"
+        },
+        {
+            "x": true,
+            "id": 65835,
+            "category": "La muerte nos llega a todos"
+        },
+        {
+            "x": false,
+            "id": 65836,
+            "category": "Promesas rotas"
+        },
+        {
+            "x": false,
+            "id": 65837,
+            "category": "Burbujas apestosas"
+        },
+        {
+            "x": false,
+            "id": 65838,
+            "category": "Universidad de ardillas"
+        },
+        {
+            "x": false,
+            "id": 65839,
+            "category": "Pelea de maíz"
+        },
+        {
+            "x": false,
+            "id": 65840,
+            "category": "Maullido de gato samurái"
+        },
+        {
+            "x": false,
+            "id": 65841,
+            "category": "Tornado de gambas"
+        },
+        {
+            "x": false,
+            "id": 65842,
+            "category": "Joven Einstein"
+        },
+        {
+            "x": true,
+            "id": 65843,
+            "category": "Ryan Reynolds bajo mi cama"
+        },
+        {
+            "x": false,
+            "id": 65844,
+            "category": "Como triángulos"
+        },
+        {
+            "x": false,
+            "id": 65845,
+            "category": "Grupo de flauta"
+        },
+        {
+            "x": false,
+            "id": 65846,
+            "category": "Esmoquin de verano"
+        },
+        {
+            "x": false,
+            "id": 65847,
+            "category": "No sé si esta ardilla es amistosa"
+        },
+        {
+            "x": false,
+            "id": 65848,
+            "category": "Roba pañales"
+        },
+        {
+            "x": false,
+            "id": 65849,
+            "category": "Limusina de los helados"
+        },
+        {
+            "x": false,
+            "id": 65850,
+            "category": "Guacamole falso"
+        },
+        {
+            "x": false,
+            "id": 65851,
+            "category": "Un moco seco en un plato de papel"
+        },
+        {
+            "x": true,
+            "id": 65852,
+            "category": "Chupito de ketchup"
+        },
+        {
+            "x": false,
+            "id": 65853,
+            "category": "Cohete navideño"
+        },
+        {
+            "x": false,
+            "id": 65854,
+            "category": "Eclipse lunar"
+        },
+        {
+            "x": false,
+            "id": 65855,
+            "category": "Contacto visual con un extraño por accidente"
+        },
+        {
+            "x": false,
+            "id": 65856,
+            "category": "Papá vago"
+        },
+        {
+            "x": false,
+            "id": 65857,
+            "category": "Acupuntura"
+        },
+        {
+            "x": true,
+            "id": 65858,
+            "category": "Muerte por sofá"
+        },
+        {
+            "x": false,
+            "id": 65859,
+            "category": "Donald Trump bebé"
+        },
+        {
+            "x": false,
+            "id": 65860,
+            "category": "Me jubilo en un día"
+        },
+        {
+            "x": false,
+            "id": 65861,
+            "category": "Demasiado pronto"
+        },
+        {
+            "x": false,
+            "id": 65862,
+            "category": "Doctor Manostenedores"
+        },
+        {
+            "x": true,
+            "id": 65863,
+            "category": "Tosa fuerte, por favor"
+        },
+        {
+            "x": false,
+            "id": 65864,
+            "category": "Salón del cómic"
+        },
+        {
+            "x": false,
+            "id": 65865,
+            "category": "La rabia"
+        },
+        {
+            "x": false,
+            "id": 65866,
+            "category": "Coche que funciona con amor"
+        },
+        {
+            "x": false,
+            "id": 65867,
+            "category": "Chico triste come precocinados"
+        },
+        {
+            "x": false,
+            "id": 65868,
+            "category": "Camila Cabello montada en un águila"
+        },
+        {
+            "x": false,
+            "id": 65869,
+            "category": "Chef esqueleto"
+        },
+        {
+            "x": false,
+            "id": 65870,
+            "category": "¡Soy un glotón!"
+        },
+        {
+            "x": false,
+            "id": 65871,
+            "category": "Tocar música con cucharas"
+        },
+        {
+            "x": false,
+            "id": 65872,
+            "category": "Ayuda a tus padres a configurar el ordenador"
+        },
+        {
+            "x": false,
+            "id": 65873,
+            "category": "Me recortaron de la foto"
+        },
+        {
+            "x": false,
+            "id": 65874,
+            "category": "Un mal lifting"
+        },
+        {
+            "x": false,
+            "id": 65875,
+            "category": "Perro salchicha gigante"
+        },
+        {
+            "x": false,
+            "id": 65876,
+            "category": "Minisombra"
+        },
+        {
+            "x": false,
+            "id": 65877,
+            "category": "Colonos de Catán"
+        },
+        {
+            "x": false,
+            "id": 65878,
+            "category": "Muñeco de barro"
+        },
+        {
+            "x": false,
+            "id": 65879,
+            "category": "Gran escote"
+        },
+        {
+            "x": false,
+            "id": 65880,
+            "category": "Profe genial"
+        },
+        {
+            "x": false,
+            "id": 65881,
+            "category": "A gusto en el maletero"
+        },
+        {
+            "x": false,
+            "id": 65882,
+            "category": "Ancianos bailando"
+        },
+        {
+            "x": false,
+            "id": 65883,
+            "category": "Saludo secreto"
+        },
+        {
+            "x": true,
+            "id": 65884,
+            "category": "Baño comunal"
+        },
+        {
+            "x": false,
+            "id": 65885,
+            "category": "Orgullo y prejuicio"
+        },
+        {
+            "x": false,
+            "id": 65886,
+            "category": "Lanzatartas"
+        },
+        {
+            "x": false,
+            "id": 65887,
+            "category": "Corbata de serpiente muerta"
+        },
+        {
+            "x": false,
+            "id": 65888,
+            "category": "El peor amigo del hombre"
+        },
+        {
+            "x": false,
+            "id": 65889,
+            "category": "Huevos de canguro"
+        },
+        {
+            "x": false,
+            "id": 65890,
+            "category": "¡A ellos!"
+        },
+        {
+            "x": false,
+            "id": 65891,
+            "category": "Prisión de conejos"
+        },
+        {
+            "x": false,
+            "id": 65892,
+            "category": "Axilas musicales"
+        },
+        {
+            "x": false,
+            "id": 65893,
+            "category": "Caramelos infinitos"
+        },
+        {
+            "x": false,
+            "id": 65894,
+            "category": "Vainilla"
+        },
+        {
+            "x": false,
+            "id": 65895,
+            "category": "Batman pobre"
+        },
+        {
+            "x": false,
+            "id": 65896,
+            "category": "Tres personas comen cebra"
+        },
+        {
+            "x": false,
+            "id": 65897,
+            "category": "Codos irrompibles"
+        },
+        {
+            "x": false,
+            "id": 65899,
+            "category": "Cangrejo volador"
+        },
+        {
+            "x": false,
+            "id": 65900,
+            "category": "Navidades aburridas"
+        },
+        {
+            "x": false,
+            "id": 65901,
+            "category": "Celda 211"
+        },
+        {
+            "x": false,
+            "id": 65902,
+            "category": "Bruja de fiesta"
+        },
+        {
+            "x": false,
+            "id": 65903,
+            "category": "Cabezas de Barbie"
+        },
+        {
+            "x": false,
+            "id": 65904,
+            "category": "Frankenstein encubierto"
+        },
+        {
+            "x": false,
+            "id": 65905,
+            "category": "Fruta seca"
+        },
+        {
+            "x": false,
+            "id": 65906,
+            "category": "Verruga"
+        },
+        {
+            "x": false,
+            "id": 65907,
+            "category": "Una voz molesta"
+        },
+        {
+            "x": false,
+            "id": 65908,
+            "category": "Más allá del agujero negro"
+        },
+        {
+            "x": false,
+            "id": 65909,
+            "category": "Esqueleto de conejo"
+        },
+        {
+            "x": false,
+            "id": 65910,
+            "category": "Balón prisionero acuático"
+        },
+        {
+            "x": false,
+            "id": 65911,
+            "category": "Kikos"
+        },
+        {
+            "x": false,
+            "id": 65912,
+            "category": "Me comí un despertador"
+        },
+        {
+            "x": true,
+            "id": 65913,
+            "category": "Olor a viejo"
+        },
+        {
+            "x": false,
+            "id": 65914,
+            "category": "Un caimán de patas muy largas"
+        },
+        {
+            "x": true,
+            "id": 65915,
+            "category": "Dos personas comen la misma salchicha"
+        },
+        {
+            "x": false,
+            "id": 65916,
+            "category": "Tengo una araña en la oreja"
+        },
+        {
+            "x": false,
+            "id": 65917,
+            "category": "Pulpo de un tentáculo"
+        },
+        {
+            "x": false,
+            "id": 65918,
+            "category": "Loco de ira"
+        },
+        {
+            "x": false,
+            "id": 65919,
+            "category": "Teletrabajo"
+        },
+        {
+            "x": false,
+            "id": 65920,
+            "category": "Remordimiento del comprador"
+        },
+        {
+            "x": false,
+            "id": 65921,
+            "category": "Bocadillo de lagarto"
+        },
+        {
+            "x": false,
+            "id": 65922,
+            "category": "Salmorejo"
+        },
+        {
+            "x": false,
+            "id": 65923,
+            "category": "Anuncios emergentes infinitos"
+        },
+        {
+            "x": false,
+            "id": 65924,
+            "category": "Miniperro de trineo"
+        },
+        {
+            "x": false,
+            "id": 65925,
+            "category": "Máquina de tortazos"
+        },
+        {
+            "x": false,
+            "id": 65926,
+            "category": "Fular de ardilla"
+        },
+        {
+            "x": false,
+            "id": 65927,
+            "category": "Beso de dinosaurio"
+        },
+        {
+            "x": false,
+            "id": 65928,
+            "category": "Zapatos al revés"
+        },
+        {
+            "x": false,
+            "id": 65929,
+            "category": "Pañales de dragón"
+        },
+        {
+            "x": false,
+            "id": 65930,
+            "category": "Robot derritiéndose"
+        },
+        {
+            "x": false,
+            "id": 65931,
+            "category": "Dos gatos y una taza"
+        },
+        {
+            "x": false,
+            "id": 65932,
+            "category": "Botas láser"
+        },
+        {
+            "x": false,
+            "id": 65933,
+            "category": "Mamá cerdito"
+        },
+        {
+            "x": true,
+            "id": 65934,
+            "category": "Engañar a la muerte"
+        },
+        {
+            "x": false,
+            "id": 65935,
+            "category": "Huéleme el pie"
+        },
+        {
+            "x": false,
+            "id": 65936,
+            "category": "Camisa de queso"
+        },
+        {
+            "x": false,
+            "id": 65937,
+            "category": "Élite"
+        },
+        {
+            "x": false,
+            "id": 65938,
+            "category": "Un paracaídas de esparto"
+        },
+        {
+            "x": false,
+            "id": 65939,
+            "category": "Golfo golfista"
+        },
+        {
+            "x": false,
+            "id": 65940,
+            "category": "Las mejores alitas picantes"
+        },
+        {
+            "x": false,
+            "id": 65941,
+            "category": "Malabarismos con jamones"
+        },
+        {
+            "x": false,
+            "id": 65942,
+            "category": "La bolsa está llena de orégano"
+        },
+        {
+            "x": false,
+            "id": 65943,
+            "category": "Jazz suave"
+        },
+        {
+            "x": false,
+            "id": 65944,
+            "category": "Imitación de Brad Pitt"
+        },
+        {
+            "x": true,
+            "id": 65945,
+            "category": "Agárrense los machos"
+        },
+        {
+            "x": true,
+            "id": 65946,
+            "category": "De donde vienen los niños"
+        },
+        {
+            "x": false,
+            "id": 65947,
+            "category": "Tortilla de Lentejas"
+        },
+        {
+            "x": true,
+            "id": 65948,
+            "category": "Estrellas de mar apareándose"
+        },
+        {
+            "x": true,
+            "id": 65949,
+            "category": "Cazo humanos por deporte"
+        },
+        {
+            "x": true,
+            "id": 65950,
+            "category": "Excremento en el ponche"
+        },
+        {
+            "x": false,
+            "id": 65951,
+            "category": "Paz mundial"
+        },
+        {
+            "x": false,
+            "id": 65952,
+            "category": "Gato amenazante"
+        },
+        {
+            "x": false,
+            "id": 65953,
+            "category": "noche de Sábado en Cuba"
+        },
+        {
+            "x": false,
+            "id": 65954,
+            "category": "Mofeta bonita"
+        },
+        {
+            "x": false,
+            "id": 65955,
+            "category": "Yo quiero bailar"
+        },
+        {
+            "x": false,
+            "id": 65956,
+            "category": "Tiempo de crisis"
+        },
+        {
+            "x": false,
+            "id": 65957,
+            "category": "Demasiado maquillaje"
+        },
+        {
+            "x": false,
+            "id": 65958,
+            "category": "Elvis Presley y Tintín"
+        },
+        {
+            "x": false,
+            "id": 65959,
+            "category": "Debemos besarnos o moriremos"
+        },
+        {
+            "x": false,
+            "id": 65960,
+            "category": "Batido de proteínas"
+        },
+        {
+            "x": false,
+            "id": 65961,
+            "category": "Jinx"
+        },
+        {
+            "x": false,
+            "id": 65962,
+            "category": "Mis dientes volaron"
+        },
+        {
+            "x": false,
+            "id": 65963,
+            "category": "Oficina húmeda"
+        },
+        {
+            "x": false,
+            "id": 65964,
+            "category": "El Gran Cañón cuando solo era el Pequeño Cañón"
+        },
+        {
+            "x": false,
+            "id": 65965,
+            "category": "Una magdalena especial"
+        },
+        {
+            "x": false,
+            "id": 65966,
+            "category": "Enfoque láser"
+        },
+        {
+            "x": true,
+            "id": 65967,
+            "category": "Cago por el sobaco"
+        },
+        {
+            "x": false,
+            "id": 65969,
+            "category": "Un reloj con puntos quirúrgicos"
+        },
+        {
+            "x": true,
+            "id": 65970,
+            "category": "Golpe pélvico"
+        },
+        {
+            "x": true,
+            "id": 65971,
+            "category": "Señor Pinzas de Langosta"
+        },
+        {
+            "x": false,
+            "id": 65972,
+            "category": "Criticar"
+        },
+        {
+            "x": false,
+            "id": 65973,
+            "category": "Escupir fuego en una boda"
+        },
+        {
+            "x": false,
+            "id": 65974,
+            "category": "Cosplay"
+        },
+        {
+            "x": false,
+            "id": 65975,
+            "category": "El gato flota"
+        },
+        {
+            "x": false,
+            "id": 65976,
+            "category": "Amo los lóbulos"
+        },
+        {
+            "x": false,
+            "id": 65977,
+            "category": "Cañón de perritos calientes"
+        },
+        {
+            "x": false,
+            "id": 65978,
+            "category": "Papá Noel para adultos"
+        },
+        {
+            "x": true,
+            "id": 65979,
+            "category": "Un tipo con nueve pezones"
+        },
+        {
+            "x": false,
+            "id": 65980,
+            "category": "Pelo pincho"
+        },
+        {
+            "x": false,
+            "id": 65981,
+            "category": "Llueven tenedores"
+        },
+        {
+            "x": false,
+            "id": 65982,
+            "category": "Un vaquero a un kilómetro"
+        },
+        {
+            "x": false,
+            "id": 65983,
+            "category": "Pila de donas ardiendo"
+        },
+        {
+            "x": false,
+            "id": 65984,
+            "category": "Pánico escénico"
+        },
+        {
+            "x": false,
+            "id": 65985,
+            "category": "Final feliz"
+        },
+        {
+            "x": false,
+            "id": 65986,
+            "category": "El sistema métrico"
+        },
+        {
+            "x": false,
+            "id": 65987,
+            "category": "¡Qué ganga!"
+        },
+        {
+            "x": false,
+            "id": 65988,
+            "category": "Respeto"
+        },
+        {
+            "x": false,
+            "id": 65989,
+            "category": "Hermana perdida"
+        },
+        {
+            "x": false,
+            "id": 65990,
+            "category": "Receta secreta"
+        },
+        {
+            "x": false,
+            "id": 65991,
+            "category": "Leche cara"
+        },
+        {
+            "x": false,
+            "id": 65992,
+            "category": "Modelo que babea"
+        },
+        {
+            "x": true,
+            "id": 65993,
+            "category": "Hacer una visita al señor Roca"
+        },
+        {
+            "x": false,
+            "id": 65994,
+            "category": "Rescatador"
+        },
+        {
+            "x": false,
+            "id": 65995,
+            "category": "Aprender a quererte"
+        },
+        {
+            "x": false,
+            "id": 65996,
+            "category": "Collar de perlas falsas"
+        },
+        {
+            "x": false,
+            "id": 65997,
+            "category": "Spa cavernícola"
+        },
+        {
+            "x": false,
+            "id": 65998,
+            "category": "Wolverine elegante"
+        },
+        {
+            "x": false,
+            "id": 65999,
+            "category": "Prueba para animadora"
+        },
+        {
+            "x": false,
+            "id": 66000,
+            "category": "Planeta de bebés"
+        },
+        {
+            "x": false,
+            "id": 66001,
+            "category": "Cámara lenta"
+        },
+        {
+            "x": false,
+            "id": 66002,
+            "category": "Pulgares diminutos"
+        },
+        {
+            "x": false,
+            "id": 66003,
+            "category": "Mirar por un agujero y que te dispare un láser"
+        },
+        {
+            "x": false,
+            "id": 66004,
+            "category": "Cielo de las ratas"
+        },
+        {
+            "x": true,
+            "id": 66006,
+            "category": "Snapchat"
+        },
+        {
+            "x": false,
+            "id": 66007,
+            "category": "Concierto de Luis Miguel"
+        },
+        {
+            "x": false,
+            "id": 66008,
+            "category": "Deseo de Año Nuevo"
+        },
+        {
+            "x": false,
+            "id": 66009,
+            "category": "Acné en la espalda"
+        },
+        {
+            "x": false,
+            "id": 66011,
+            "category": "Viendo una improvisación"
+        },
+        {
+            "x": false,
+            "id": 66012,
+            "category": "Celos"
+        },
+        {
+            "x": false,
+            "id": 66013,
+            "category": "Niños guerreros"
+        },
+        {
+            "x": false,
+            "id": 66014,
+            "category": "Calavera de vaca que habla"
+        },
+        {
+            "x": false,
+            "id": 66015,
+            "category": "Calabaza para cenar"
+        },
+        {
+            "x": false,
+            "id": 66016,
+            "category": "Amo a un pato en secreto"
+        },
+        {
+            "x": false,
+            "id": 66017,
+            "category": "Chewbacca sin pelo"
+        },
+        {
+            "x": false,
+            "id": 66018,
+            "category": "Una minivejiga"
+        },
+        {
+            "x": false,
+            "id": 66019,
+            "category": "Alergia a las camisetas"
+        },
+        {
+            "x": false,
+            "id": 66020,
+            "category": "Escorbuto"
+        },
+        {
+            "x": false,
+            "id": 66021,
+            "category": "Una cama llena de puntitos"
+        },
+        {
+            "x": false,
+            "id": 66022,
+            "category": "Estatua de la Libertad enfadada"
+        },
+        {
+            "x": false,
+            "id": 66023,
+            "category": "Depilar la espalda"
+        },
+        {
+            "x": true,
+            "id": 66024,
+            "category": "Voz sexi"
+        },
+        {
+            "x": false,
+            "id": 66025,
+            "category": "Perfecto estado"
+        },
+        {
+            "x": false,
+            "id": 66026,
+            "category": "Escritor bloqueado"
+        },
+        {
+            "x": false,
+            "id": 66027,
+            "category": "Trampas a las cartas"
+        },
+        {
+            "x": false,
+            "id": 66028,
+            "category": "Boda de magos"
+        },
+        {
+            "x": false,
+            "id": 66029,
+            "category": "Deja vu"
+        },
+        {
+            "x": true,
+            "id": 66030,
+            "category": "Muerte por almohada"
+        },
+        {
+            "x": false,
+            "id": 66032,
+            "category": "OPA hostil"
+        },
+        {
+            "x": false,
+            "id": 66033,
+            "category": "Muñeco de RCP"
+        },
+        {
+            "x": false,
+            "id": 66034,
+            "category": "Sábanas de motel"
+        },
+        {
+            "x": false,
+            "id": 66035,
+            "category": "Delfines adolescentes"
+        },
+        {
+            "x": false,
+            "id": 66036,
+            "category": "Dinero canadiense"
+        },
+        {
+            "x": false,
+            "id": 66037,
+            "category": "Abogado de la selva"
+        },
+        {
+            "x": false,
+            "id": 66038,
+            "category": "Astronautas vagos"
+        },
+        {
+            "x": false,
+            "id": 66039,
+            "category": "Alarma de baño"
+        },
+        {
+            "x": false,
+            "id": 66040,
+            "category": "Congreso de perros"
+        },
+        {
+            "x": false,
+            "id": 66042,
+            "category": "Los Rolling Stones"
+        },
+        {
+            "x": false,
+            "id": 66043,
+            "category": "Asuntos sin terminar"
+        },
+        {
+            "x": false,
+            "id": 66044,
+            "category": "Un batido de carne"
+        },
+        {
+            "x": false,
+            "id": 66045,
+            "category": "Un hombre de pie detrás de otro hombre"
+        },
+        {
+            "x": false,
+            "id": 66046,
+            "category": "Amuleto mágico"
+        },
+        {
+            "x": false,
+            "id": 66047,
+            "category": "Oídos infectados"
+        },
+        {
+            "x": false,
+            "id": 66048,
+            "category": "Zoo hípster"
+        },
+        {
+            "x": false,
+            "id": 66049,
+            "category": "Inflable desinflado"
+        },
+        {
+            "x": true,
+            "id": 66050,
+            "category": "Vino de retrete"
+        },
+        {
+            "x": false,
+            "id": 66051,
+            "category": "Policías mimos"
+        },
+        {
+            "x": false,
+            "id": 66052,
+            "category": "Guerra de cosquillas"
+        },
+        {
+            "x": false,
+            "id": 66054,
+            "category": "Ropa interior de jengibre"
+        },
+        {
+            "x": false,
+            "id": 66055,
+            "category": "Pies con manos"
+        },
+        {
+            "x": false,
+            "id": 66056,
+            "category": "Superflexible"
+        },
+        {
+            "x": false,
+            "id": 66057,
+            "category": "Olor a nuevo"
+        },
+        {
+            "x": false,
+            "id": 66058,
+            "category": "Dormir en el avión"
+        },
+        {
+            "x": false,
+            "id": 66059,
+            "category": "Tienda de mascotas macabras"
+        },
+        {
+            "x": true,
+            "id": 66060,
+            "category": "Transfusión"
+        },
+        {
+            "x": false,
+            "id": 66061,
+            "category": "Kilitos de verano"
+        },
+        {
+            "x": false,
+            "id": 66062,
+            "category": "Un traje de algas"
+        },
+        {
+            "x": false,
+            "id": 66063,
+            "category": "Boda vikinga"
+        },
+        {
+            "x": false,
+            "id": 66064,
+            "category": "Mala actuación a mitad del partido"
+        },
+        {
+            "x": false,
+            "id": 66065,
+            "category": "Baño de yogur"
+        },
+        {
+            "x": false,
+            "id": 66066,
+            "category": "Cinco dirigibles"
+        },
+        {
+            "x": false,
+            "id": 66067,
+            "category": "Chicas malas"
+        },
+        {
+            "x": true,
+            "id": 66068,
+            "category": "¡Fiesta papal!"
+        },
+        {
+            "x": false,
+            "id": 66069,
+            "category": "Me encanta chupar dedos"
+        },
+        {
+            "x": false,
+            "id": 66070,
+            "category": "Hacer masa"
+        },
+        {
+            "x": false,
+            "id": 66071,
+            "category": "Payaso de pesadilla inmortal"
+        },
+        {
+            "x": false,
+            "id": 66072,
+            "category": "Sombrero de papel de aluminio"
+        },
+        {
+            "x": false,
+            "id": 66073,
+            "category": "Toledo"
+        },
+        {
+            "x": false,
+            "id": 66074,
+            "category": "Los hobbits te ayudan a mudarte"
+        },
+        {
+            "x": false,
+            "id": 66075,
+            "category": "Ascensor caliente"
+        },
+        {
+            "x": false,
+            "id": 66076,
+            "category": "Piedra en el riñón"
+        },
+        {
+            "x": false,
+            "id": 66077,
+            "category": "Inspector de salsas"
+        },
+        {
+            "x": false,
+            "id": 66078,
+            "category": "RoboCop steampunk"
+        },
+        {
+            "x": false,
+            "id": 66079,
+            "category": "Mala cara de póker"
+        },
+        {
+            "x": false,
+            "id": 66080,
+            "category": "Afeitar un melocotón"
+        },
+        {
+            "x": false,
+            "id": 66081,
+            "category": "Los leones del Congreso disfrazados"
+        },
+        {
+            "x": false,
+            "id": 66082,
+            "category": "Amortiguación"
+        },
+        {
+            "x": false,
+            "id": 66083,
+            "category": "Comer una pelota de tenis"
+        },
+        {
+            "x": false,
+            "id": 66084,
+            "category": "Leer la última página de un gran libro"
+        },
+        {
+            "x": false,
+            "id": 66085,
+            "category": "Puerta de la universidad ardiendo"
+        },
+        {
+            "x": false,
+            "id": 66086,
+            "category": "Mujeres desesperadas en Transilvania"
+        },
+        {
+            "x": false,
+            "id": 66087,
+            "category": "Llevar un micro oculto"
+        },
+        {
+            "x": true,
+            "id": 66088,
+            "category": "Pedo musical"
+        },
+        {
+            "x": false,
+            "id": 66089,
+            "category": "Autoabrazo"
+        },
+        {
+            "x": false,
+            "id": 66090,
+            "category": "Ninja latino"
+        },
+        {
+            "x": false,
+            "id": 66091,
+            "category": "Cama de basura"
+        },
+        {
+            "x": false,
+            "id": 66092,
+            "category": "Robo a un banco de sangre"
+        },
+        {
+            "x": false,
+            "id": 66093,
+            "category": "Baile agarrado con un insecto gigante"
+        },
+        {
+            "x": false,
+            "id": 66094,
+            "category": "Murciélagos con halitosis"
+        },
+        {
+            "x": false,
+            "id": 66095,
+            "category": "Un repartidor en un sueño"
+        },
+        {
+            "x": false,
+            "id": 66096,
+            "category": "Fantasma de piloto de rally"
+        },
+        {
+            "x": true,
+            "id": 66097,
+            "category": "Ogro en el baño"
+        },
+        {
+            "x": false,
+            "id": 66098,
+            "category": "Persecución lenta"
+        },
+        {
+            "x": false,
+            "id": 66099,
+            "category": "Michael Jordan volando"
+        },
+        {
+            "x": false,
+            "id": 66100,
+            "category": "Noticias cavernícolas"
+        },
+        {
+            "x": false,
+            "id": 66101,
+            "category": "Una tumba poco profunda"
+        },
+        {
+            "x": false,
+            "id": 66102,
+            "category": "Madre Teresa pescando"
+        },
+        {
+            "x": false,
+            "id": 66103,
+            "category": "Rey zanahoria"
+        },
+        {
+            "x": false,
+            "id": 66104,
+            "category": "Mejores amigos"
+        },
+        {
+            "x": false,
+            "id": 66105,
+            "category": "Tortuga con zancos"
+        },
+        {
+            "x": false,
+            "id": 66106,
+            "category": "Beyoncé con un lanzallamas"
+        },
+        {
+            "x": false,
+            "id": 66107,
+            "category": "Lleno de garrapatas"
+        },
+        {
+            "x": false,
+            "id": 66108,
+            "category": "Oso de peluche maligno"
+        },
+        {
+            "x": false,
+            "id": 66109,
+            "category": "Bolos cósmicos"
+        },
+        {
+            "x": true,
+            "id": 66110,
+            "category": "El diablo como loco por su factura de celular"
+        },
+        {
+            "x": false,
+            "id": 66111,
+            "category": "La chica de la curva"
+        },
+        {
+            "x": false,
+            "id": 66112,
+            "category": "Vaquero atractivo"
+        },
+        {
+            "x": true,
+            "id": 66113,
+            "category": "¡Te mato con apio!"
+        },
+        {
+            "x": false,
+            "id": 66114,
+            "category": "Cirugía el día de tu boda"
+        },
+        {
+            "x": false,
+            "id": 66115,
+            "category": "Mi pareja me dejó en Jurassic Park"
+        },
+        {
+            "x": false,
+            "id": 66116,
+            "category": "Dinosaurio futurista"
+        },
+        {
+            "x": false,
+            "id": 66118,
+            "category": "Un saco lleno de comida"
+        },
+        {
+            "x": true,
+            "id": 66119,
+            "category": "Cubitos de hielo eróticos"
+        },
+        {
+            "x": false,
+            "id": 66120,
+            "category": "Galletas que te dejan boquiabiertos"
+        },
+        {
+            "x": false,
+            "id": 66121,
+            "category": "Telenovela de jirafas"
+        },
+        {
+            "x": true,
+            "id": 66122,
+            "category": "Trasero de madera"
+        },
+        {
+            "x": false,
+            "id": 66123,
+            "category": "Subir una montaña de palomitas"
+        },
+        {
+            "x": false,
+            "id": 66124,
+            "category": "Temes a tu propia sombra"
+        },
+        {
+            "x": false,
+            "id": 66125,
+            "category": "Sabor a calabaza"
+        },
+        {
+            "x": false,
+            "id": 66126,
+            "category": "Recuerdos de langosta"
+        },
+        {
+            "x": false,
+            "id": 66127,
+            "category": "Medusa se corta el pelo"
+        },
+        {
+            "x": true,
+            "id": 66128,
+            "category": "Sujetador casero"
+        },
+        {
+            "x": false,
+            "id": 66129,
+            "category": "Los elfos que viven en tu oreja"
+        },
+        {
+            "x": false,
+            "id": 66130,
+            "category": "Museo de pestes"
+        },
+        {
+            "x": false,
+            "id": 66131,
+            "category": "Un megáfono lleno de helado"
+        },
+        {
+            "x": false,
+            "id": 66132,
+            "category": "Fiesta en la alcantarilla"
+        },
+        {
+            "x": false,
+            "id": 66133,
+            "category": "Guardabosque malvado"
+        },
+        {
+            "x": false,
+            "id": 66134,
+            "category": "Póster de miedo"
+        },
+        {
+            "x": false,
+            "id": 66135,
+            "category": "Foto policial de Einstein"
+        },
+        {
+            "x": false,
+            "id": 66136,
+            "category": "Rótulas de oro"
+        },
+        {
+            "x": false,
+            "id": 66137,
+            "category": "Polo venenoso"
+        },
+        {
+            "x": false,
+            "id": 66138,
+            "category": "Empleado furioso"
+        },
+        {
+            "x": false,
+            "id": 66139,
+            "category": "Gente en casas de cristal"
+        },
+        {
+            "x": false,
+            "id": 66140,
+            "category": "Mirar por la mirilla"
+        },
+        {
+            "x": false,
+            "id": 66141,
+            "category": "Grandes filósofos"
+        },
+        {
+            "x": false,
+            "id": 66142,
+            "category": "Fraternidades en el Titanic"
+        },
+        {
+            "x": false,
+            "id": 66143,
+            "category": "¡Me caso con este saltador!"
+        },
+        {
+            "x": false,
+            "id": 66145,
+            "category": "Chiste malo"
+        },
+        {
+            "x": true,
+            "id": 66146,
+            "category": "Una radiografía de un Muppet"
+        },
+        {
+            "x": false,
+            "id": 66147,
+            "category": "Alimento para la mente"
+        },
+        {
+            "x": false,
+            "id": 66148,
+            "category": "Drake"
+        },
+        {
+            "x": false,
+            "id": 66149,
+            "category": "Pesadillas sobre osos vampiro"
+        },
+        {
+            "x": false,
+            "id": 66150,
+            "category": "Un tipo con canicas en los ojos"
+        },
+        {
+            "x": false,
+            "id": 66151,
+            "category": "Un pájaro probando ropa interior"
+        },
+        {
+            "x": false,
+            "id": 66152,
+            "category": "Clase de ligar"
+        },
+        {
+            "x": false,
+            "id": 66153,
+            "category": "Puzle de 1000 piezas"
+        },
+        {
+            "x": false,
+            "id": 66154,
+            "category": "Hombre cactus"
+        },
+        {
+            "x": false,
+            "id": 66155,
+            "category": "Raperos en una lancha"
+        },
+        {
+            "x": false,
+            "id": 66156,
+            "category": "Deja de pegarte"
+        },
+        {
+            "x": false,
+            "id": 66157,
+            "category": "Elton John"
+        },
+        {
+            "x": false,
+            "id": 66158,
+            "category": "Un manco bailando"
+        },
+        {
+            "x": false,
+            "id": 66159,
+            "category": "Dormir en una nube de azúcar"
+        },
+        {
+            "x": false,
+            "id": 66160,
+            "category": "Rábano millonario"
+        },
+        {
+            "x": false,
+            "id": 66161,
+            "category": "Siesta en un combate de boxeo"
+        },
+        {
+            "x": false,
+            "id": 66162,
+            "category": "Pez psíquico"
+        },
+        {
+            "x": false,
+            "id": 66163,
+            "category": "Esmoquin en llamas"
+        },
+        {
+            "x": false,
+            "id": 66164,
+            "category": "Miles de chinches"
+        },
+        {
+            "x": false,
+            "id": 66165,
+            "category": "El cachorro crece deprisa"
+        },
+        {
+            "x": false,
+            "id": 66166,
+            "category": "¡El Presidente es un dinosaurio!"
+        },
+        {
+            "x": false,
+            "id": 66167,
+            "category": "Momia embarazada"
+        },
+        {
+            "x": true,
+            "id": 66168,
+            "category": "Caca congelada"
+        },
+        {
+            "x": false,
+            "id": 66169,
+            "category": "Cinturón militar"
+        },
+        {
+            "x": true,
+            "id": 66170,
+            "category": "Ropa interior decepcionante"
+        },
+        {
+            "x": false,
+            "id": 66171,
+            "category": "Lluvia de diamantes"
+        },
+        {
+            "x": true,
+            "id": 66172,
+            "category": "Atrapado con Eminem"
+        },
+        {
+            "x": true,
+            "id": 66173,
+            "category": "Masaje con final triste"
+        },
+        {
+            "x": false,
+            "id": 66174,
+            "category": "Perfume de queso"
+        },
+        {
+            "x": false,
+            "id": 66175,
+            "category": "Miedo al rechazo"
+        },
+        {
+            "x": false,
+            "id": 66176,
+            "category": "Bomba de tocino"
+        },
+        {
+            "x": false,
+            "id": 66177,
+            "category": "El poder del amor"
+        },
+        {
+            "x": false,
+            "id": 66178,
+            "category": "Cómo se hace el queso"
+        },
+        {
+            "x": false,
+            "id": 66179,
+            "category": "Panda gótico"
+        },
+        {
+            "x": true,
+            "id": 66180,
+            "category": "Primer bebé asesino"
+        },
+        {
+            "x": false,
+            "id": 66181,
+            "category": "Patos comen pepinillos"
+        },
+        {
+            "x": false,
+            "id": 66182,
+            "category": "Payasos esquiando"
+        },
+        {
+            "x": false,
+            "id": 66183,
+            "category": "Pelea de fideos"
+        },
+        {
+            "x": false,
+            "id": 66184,
+            "category": "Tarta de ardilla"
+        },
+        {
+            "x": false,
+            "id": 66185,
+            "category": "Llama deprimida"
+        },
+        {
+            "x": false,
+            "id": 66186,
+            "category": "Mapache calvo"
+        },
+        {
+            "x": false,
+            "id": 66187,
+            "category": "Miedo al compromiso"
+        },
+        {
+            "x": false,
+            "id": 66188,
+            "category": "Selfie con chiquillos"
+        },
+        {
+            "x": false,
+            "id": 66189,
+            "category": "Comer pizza congelada"
+        },
+        {
+            "x": true,
+            "id": 66190,
+            "category": "Despedida de soltera"
+        },
+        {
+            "x": false,
+            "id": 66192,
+            "category": "Niños siendo niños"
+        },
+        {
+            "x": true,
+            "id": 66193,
+            "category": "Corredor de maratón se hace caca"
+        },
+        {
+            "x": false,
+            "id": 66194,
+            "category": "Un cobarde"
+        },
+        {
+            "x": false,
+            "id": 66195,
+            "category": "Una larva feliz"
+        },
+        {
+            "x": false,
+            "id": 66196,
+            "category": "Señales confusas"
+        },
+        {
+            "x": false,
+            "id": 66197,
+            "category": "Vivir al día"
+        },
+        {
+            "x": true,
+            "id": 66198,
+            "category": "Los Toreros Muertos"
+        },
+        {
+            "x": false,
+            "id": 66200,
+            "category": "Antimateria"
+        },
+        {
+            "x": true,
+            "id": 66201,
+            "category": "Libro de una biblioteca erótica"
+        },
+        {
+            "x": false,
+            "id": 66202,
+            "category": "¿Subes?"
+        },
+        {
+            "x": true,
+            "id": 66203,
+            "category": "Asistir a mi propio funeral"
+        },
+        {
+            "x": true,
+            "id": 66204,
+            "category": "Oh, oh... Eso era laxante"
+        },
+        {
+            "x": false,
+            "id": 66205,
+            "category": "La patata más grande del mundo"
+        },
+        {
+            "x": false,
+            "id": 66206,
+            "category": "Foto de pedida"
+        },
+        {
+            "x": false,
+            "id": 66207,
+            "category": "Crossfit"
+        },
+        {
+            "x": false,
+            "id": 66208,
+            "category": "Maratón de series"
+        },
+        {
+            "x": false,
+            "id": 66209,
+            "category": "Detective camello"
+        },
+        {
+            "x": false,
+            "id": 66210,
+            "category": "Chantajear a un perro"
+        },
+        {
+            "x": false,
+            "id": 66211,
+            "category": "¡Intento ver las hormigas!"
+        },
+        {
+            "x": true,
+            "id": 66212,
+            "category": "Adicto a los sellos"
+        },
+        {
+            "x": false,
+            "id": 66213,
+            "category": "Milenials"
+        },
+        {
+            "x": false,
+            "id": 66214,
+            "category": "El orfanato"
+        },
+        {
+            "x": true,
+            "id": 66215,
+            "category": "Caca deshidratada"
+        },
+        {
+            "x": false,
+            "id": 66216,
+            "category": "Una bici para seis"
+        },
+        {
+            "x": false,
+            "id": 66217,
+            "category": "Me huele el dedo a queso"
+        },
+        {
+            "x": false,
+            "id": 66218,
+            "category": "Hombre lobo en el grupo"
+        },
+        {
+            "x": false,
+            "id": 66219,
+            "category": "Comedia romántica"
+        },
+        {
+            "x": false,
+            "id": 66220,
+            "category": "Un tipo llamado Borjamari"
+        },
+        {
+            "x": true,
+            "id": 66221,
+            "category": "Tiene la cabeza llena de aserrín"
+        },
+        {
+            "x": false,
+            "id": 66223,
+            "category": "Un grupo de tarugos"
+        },
+        {
+            "x": true,
+            "id": 66224,
+            "category": "Pavo fetichista de los pies"
+        },
+        {
+            "x": false,
+            "id": 66225,
+            "category": "Aguafiestas"
+        },
+        {
+            "x": false,
+            "id": 66226,
+            "category": "No es un perro"
+        },
+        {
+            "x": false,
+            "id": 66227,
+            "category": "Gritar al melocotón"
+        },
+        {
+            "x": false,
+            "id": 66228,
+            "category": "Evitar a alguien que conoces en público "
+        },
+        {
+            "x": true,
+            "id": 66229,
+            "category": "Hablarle al urinario"
+        },
+        {
+            "x": false,
+            "id": 66230,
+            "category": "¡No vayas ahí!"
+        },
+        {
+            "x": true,
+            "id": 66231,
+            "category": "Masaje de culo"
+        },
+        {
+            "x": false,
+            "id": 66232,
+            "category": "Vamos a comer tarta"
+        },
+        {
+            "x": false,
+            "id": 66233,
+            "category": "La fiesta más aburrida del mundo"
+        },
+        {
+            "x": false,
+            "id": 66234,
+            "category": "Comer queso fresco en la cama"
+        },
+        {
+            "x": false,
+            "id": 66235,
+            "category": "Vayan a un hotel"
+        },
+        {
+            "x": false,
+            "id": 66236,
+            "category": "Un chiste malo"
+        },
+        {
+            "x": false,
+            "id": 66237,
+            "category": "Un juez mono"
+        },
+        {
+            "x": false,
+            "id": 66238,
+            "category": "Cirugía con palillos"
+        },
+        {
+            "x": true,
+            "id": 66239,
+            "category": "Bikini hipnótico"
+        },
+        {
+            "x": false,
+            "id": 66240,
+            "category": "2 Johnny Depp"
+        },
+        {
+            "x": true,
+            "id": 66241,
+            "category": "Mujer florero"
+        },
+        {
+            "x": false,
+            "id": 66242,
+            "category": "Venganza de pingüinos"
+        },
+        {
+            "x": false,
+            "id": 66243,
+            "category": "Desodorante arcoíris"
+        },
+        {
+            "x": false,
+            "id": 66244,
+            "category": "Abogado mágico"
+        },
+        {
+            "x": false,
+            "id": 66245,
+            "category": "Qué asco de cucharas"
+        },
+        {
+            "x": false,
+            "id": 66246,
+            "category": "Hombre en la luna"
+        },
+        {
+            "x": false,
+            "id": 66247,
+            "category": "Hombres de maíz"
+        },
+        {
+            "x": false,
+            "id": 66248,
+            "category": "Malas sombras chinescas"
+        },
+        {
+            "x": false,
+            "id": 66249,
+            "category": "Gorila microscópico"
+        },
+        {
+            "x": true,
+            "id": 66250,
+            "category": "Francotirador pedorro"
+        },
+        {
+            "x": false,
+            "id": 66251,
+            "category": "Almohada de cemento"
+        },
+        {
+            "x": false,
+            "id": 66252,
+            "category": "Alergia a las vacas"
+        },
+        {
+            "x": false,
+            "id": 66253,
+            "category": "Vaquero pirata"
+        },
+        {
+            "x": false,
+            "id": 66254,
+            "category": "Repollo cocido"
+        },
+        {
+            "x": false,
+            "id": 66255,
+            "category": "Cerdo futurista"
+        },
+        {
+            "x": false,
+            "id": 66256,
+            "category": "La sopa interminable"
+        },
+        {
+            "x": false,
+            "id": 66257,
+            "category": "Atleta con ganas de dormir"
+        },
+        {
+            "x": false,
+            "id": 66258,
+            "category": "Naranja sanguina"
+        },
+        {
+            "x": false,
+            "id": 66259,
+            "category": "Mazinger Z se cae a un pozo"
+        },
+        {
+            "x": false,
+            "id": 66260,
+            "category": "¡Puños enfadados!"
+        },
+        {
+            "x": true,
+            "id": 66261,
+            "category": "Tinder"
+        },
+        {
+            "x": true,
+            "id": 66262,
+            "category": "Asesino feliz"
+        },
+        {
+            "x": false,
+            "id": 66263,
+            "category": "Última llamada"
+        },
+        {
+            "x": true,
+            "id": 66264,
+            "category": "Peli con mimos"
+        },
+        {
+            "x": false,
+            "id": 66265,
+            "category": "Ellen DeGeneres conduce un híbrido"
+        },
+        {
+            "x": false,
+            "id": 66266,
+            "category": "Pulpa en el jugo"
+        },
+        {
+            "x": false,
+            "id": 66267,
+            "category": "Pantalón de avestruz"
+        },
+        {
+            "x": false,
+            "id": 66268,
+            "category": "¡No puedo abrir el bote!"
+        },
+        {
+            "x": false,
+            "id": 66269,
+            "category": "Ladrillo picapica"
+        },
+        {
+            "x": false,
+            "id": 66270,
+            "category": "Esta salsa picante no es buena"
+        },
+        {
+            "x": false,
+            "id": 66271,
+            "category": "Pulgas en la cara"
+        },
+        {
+            "x": false,
+            "id": 66272,
+            "category": "Ráscame"
+        },
+        {
+            "x": false,
+            "id": 66273,
+            "category": "Alma de la fiesta"
+        },
+        {
+            "x": false,
+            "id": 66274,
+            "category": "Sin privacidad"
+        },
+        {
+            "x": true,
+            "id": 66275,
+            "category": "Primer día en prisión"
+        },
+        {
+            "x": false,
+            "id": 66276,
+            "category": "Perdidos en el Guggenheim"
+        },
+        {
+            "x": false,
+            "id": 66277,
+            "category": "Gran Hermano"
+        },
+        {
+            "x": true,
+            "id": 66278,
+            "category": "Bolsa de pedos"
+        },
+        {
+            "x": false,
+            "id": 66279,
+            "category": "Me como las uñas de los pies"
+        },
+        {
+            "x": false,
+            "id": 66280,
+            "category": "Hummus"
+        },
+        {
+            "x": false,
+            "id": 66281,
+            "category": "Un delantero patea un pollo"
+        },
+        {
+            "x": true,
+            "id": 66282,
+            "category": "Mal besador"
+        },
+        {
+            "x": false,
+            "id": 66283,
+            "category": "Dos tipos disfrazados de caballo"
+        },
+        {
+            "x": false,
+            "id": 66284,
+            "category": "Premio de consolación"
+        },
+        {
+            "x": false,
+            "id": 66285,
+            "category": "Medio volcán"
+        },
+        {
+            "x": false,
+            "id": 66286,
+            "category": "Día de nieve"
+        },
+        {
+            "x": false,
+            "id": 66287,
+            "category": "Me enfada el pepino"
+        },
+        {
+            "x": false,
+            "id": 66288,
+            "category": "Dientes nuevos"
+        },
+        {
+            "x": false,
+            "id": 66289,
+            "category": "Unos zapatos incómodos"
+        },
+        {
+            "x": false,
+            "id": 66290,
+            "category": "La abuela escucha la radio"
+        },
+        {
+            "x": true,
+            "id": 66291,
+            "category": "Gimnasio nudista"
+        },
+        {
+            "x": false,
+            "id": 66292,
+            "category": "Papel higiénico barato"
+        },
+        {
+            "x": false,
+            "id": 66293,
+            "category": "Will Smith"
+        },
+        {
+            "x": false,
+            "id": 66294,
+            "category": "Camino de baldosas amarillas"
+        },
+        {
+            "x": false,
+            "id": 66295,
+            "category": "Bufé de cangrejo"
+        },
+        {
+            "x": true,
+            "id": 66296,
+            "category": "Inodoro atascado"
+        },
+        {
+            "x": true,
+            "id": 66297,
+            "category": "Pedorrearse en una fiesta"
+        },
+        {
+            "x": false,
+            "id": 66298,
+            "category": "Compañero de piso raro"
+        },
+        {
+            "x": false,
+            "id": 66299,
+            "category": "Cereales blandos"
+        },
+        {
+            "x": true,
+            "id": 66300,
+            "category": "Pis de unicornio"
+        },
+        {
+            "x": false,
+            "id": 66301,
+            "category": "Pelo de caramelo"
+        },
+        {
+            "x": false,
+            "id": 66302,
+            "category": "Helado caliente"
+        },
+        {
+            "x": false,
+            "id": 66303,
+            "category": "Fiesta de alces"
+        },
+        {
+            "x": false,
+            "id": 66304,
+            "category": "Poeta espacial"
+        },
+        {
+            "x": false,
+            "id": 66305,
+            "category": "Chicle mágico"
+        },
+        {
+            "x": false,
+            "id": 66306,
+            "category": "Esqueleto de Snoopy"
+        },
+        {
+            "x": true,
+            "id": 66307,
+            "category": "Médico del culo"
+        },
+        {
+            "x": false,
+            "id": 66308,
+            "category": "Remake de película"
+        },
+        {
+            "x": false,
+            "id": 66309,
+            "category": "Salsa apestosa"
+        },
+        {
+            "x": false,
+            "id": 66310,
+            "category": "Mitad robot mitad Zapatero"
+        },
+        {
+            "x": false,
+            "id": 66311,
+            "category": "Qué desastre"
+        },
+        {
+            "x": false,
+            "id": 66312,
+            "category": "Ahora caigo"
+        },
+        {
+            "x": true,
+            "id": 66314,
+            "category": "Zeus con sujetador"
+        },
+        {
+            "x": false,
+            "id": 66315,
+            "category": "Demasiadas tartas"
+        },
+        {
+            "x": false,
+            "id": 66316,
+            "category": "Tienda Apple en el espacio"
+        },
+        {
+            "x": false,
+            "id": 66317,
+            "category": "Katy Perry zombi"
+        },
+        {
+            "x": true,
+            "id": 66318,
+            "category": "Fofisano"
+        },
+        {
+            "x": false,
+            "id": 66319,
+            "category": "Un genio con buenos abdominales"
+        },
+        {
+            "x": false,
+            "id": 66320,
+            "category": "Suricatos"
+        },
+        {
+            "x": false,
+            "id": 66321,
+            "category": "Volcán de flan"
+        },
+        {
+            "x": false,
+            "id": 66322,
+            "category": "Leche de zarigüeya"
+        },
+        {
+            "x": false,
+            "id": 66323,
+            "category": "No me acuerdo de lo que iba a decir"
+        },
+        {
+            "x": false,
+            "id": 66324,
+            "category": "Celular sin batería"
+        },
+        {
+            "x": true,
+            "id": 66325,
+            "category": "Sujetador con aro"
+        },
+        {
+            "x": false,
+            "id": 66326,
+            "category": "Informante de la mafia"
+        },
+        {
+            "x": false,
+            "id": 66327,
+            "category": "Ventana aburrida"
+        },
+        {
+            "x": false,
+            "id": 66328,
+            "category": "Mala postura sentado"
+        },
+        {
+            "x": false,
+            "id": 66329,
+            "category": "No sabría decir si huele bien o mal"
+        },
+        {
+            "x": false,
+            "id": 66330,
+            "category": "Estar de pie"
+        },
+        {
+            "x": false,
+            "id": 66331,
+            "category": "Salto"
+        },
+        {
+            "x": false,
+            "id": 66332,
+            "category": "Mirar mal"
+        },
+        {
+            "x": true,
+            "id": 66333,
+            "category": "Me pongo sexi"
+        },
+        {
+            "x": false,
+            "id": 66334,
+            "category": "Corredor engreído"
+        },
+        {
+            "x": false,
+            "id": 66335,
+            "category": "Tu reflejo en un cuchillo"
+        },
+        {
+            "x": false,
+            "id": 66336,
+            "category": "Pez en un cuadrado"
+        },
+        {
+            "x": false,
+            "id": 66337,
+            "category": "Dos personas y tres manos"
+        },
+        {
+            "x": false,
+            "id": 66338,
+            "category": "¡Se me durmieron las piernas y no puedo levantarme!"
+        },
+        {
+            "x": false,
+            "id": 66339,
+            "category": "Tercera cita"
+        },
+        {
+            "x": false,
+            "id": 66340,
+            "category": "Solo una persona en mi cumpleaños"
+        },
+        {
+            "x": false,
+            "id": 66341,
+            "category": "No hay cosecha para sobrevivir"
+        },
+        {
+            "x": false,
+            "id": 66342,
+            "category": "Hacer trampas al jugar"
+        },
+        {
+            "x": false,
+            "id": 66343,
+            "category": "¿Ese es mi auto?"
+        },
+        {
+            "x": true,
+            "id": 66344,
+            "category": "Un suspiro muy largo"
+        },
+        {
+            "x": false,
+            "id": 66345,
+            "category": "Trabajo triste"
+        },
+        {
+            "x": false,
+            "id": 66346,
+            "category": "Estrellas y notas musicales"
+        },
+        {
+            "x": false,
+            "id": 66347,
+            "category": "Infelices jugando a Drawful"
+        },
+        {
+            "x": false,
+            "id": 66348,
+            "category": "Pelo sin nada más"
+        },
+        {
+            "x": false,
+            "id": 66349,
+            "category": "Un reloj y una flecha que gira"
+        },
+        {
+            "x": false,
+            "id": 66350,
+            "category": "Solo pero feliz"
+        },
+        {
+            "x": false,
+            "id": 66351,
+            "category": "El pasaporte de <RANDOM_PLAYER_NAME>"
+        },
+        {
+            "x": false,
+            "id": 66352,
+            "category": "Un dibujo de <RANDOM_PLAYER_NAME>"
+        },
+        {
+            "x": true,
+            "id": 66353,
+            "category": "Bebida de pesadilla"
+        },
+        {
+            "x": false,
+            "id": 66354,
+            "category": "No comas caramelos abiertos"
+        },
+        {
+            "x": false,
+            "id": 66355,
+            "category": "Todos miran sus teléfonos"
+        },
+        {
+            "x": false,
+            "id": 66356,
+            "category": "Poción maligna"
+        },
+        {
+            "x": false,
+            "id": 66357,
+            "category": "Enfadado porque está despeinado"
+        },
+        {
+            "x": false,
+            "id": 66359,
+            "category": "La abuela ganó dinero"
+        },
+        {
+            "x": false,
+            "id": 66360,
+            "category": "La ciencia me supera"
+        },
+        {
+            "x": false,
+            "id": 66361,
+            "category": "Lo que hice en vacaciones "
+        },
+        {
+            "x": false,
+            "id": 66362,
+            "category": "Una casa con una línea sin sentido"
+        },
+        {
+            "x": false,
+            "id": 66363,
+            "category": "Fingir estar ocupado"
+        },
+        {
+            "x": false,
+            "id": 66364,
+            "category": "Libro perdido"
+        },
+        {
+            "x": false,
+            "id": 66365,
+            "category": "No te asustes, pero creo que nos siguen"
+        },
+        {
+            "x": false,
+            "id": 66366,
+            "category": "No me afeité"
+        },
+        {
+            "x": false,
+            "id": 66367,
+            "category": "Colección de pomos"
+        },
+        {
+            "x": false,
+            "id": 66368,
+            "category": "Santa Claus para adultos"
+        },
+        {
+            "x": true,
+            "id": 66369,
+            "category": "Tigre soltero"
+        },
+        {
+            "x": false,
+            "id": 66370,
+            "category": "La fuerza gravitatoria de la luna"
+        },
+        {
+            "x": false,
+            "id": 66371,
+            "category": "Helado de flan"
+        },
+        {
+            "x": false,
+            "id": 66372,
+            "category": "Cruce de vacas"
+        },
+        {
+            "x": false,
+            "id": 66373,
+            "category": "Cascanueces tomando café"
+        },
+        {
+            "x": false,
+            "id": 66374,
+            "category": "La ardilla voladora tiene miedo a volar"
+        },
+        {
+            "x": false,
+            "id": 66375,
+            "category": "Un poco de todo"
+        },
+        {
+            "x": false,
+            "id": 66376,
+            "category": "Agua de lata de atún"
+        },
+        {
+            "x": false,
+            "id": 66377,
+            "category": "Oficina fría"
+        },
+        {
+            "x": false,
+            "id": 66378,
+            "category": "Deshollinador adorable"
+        },
+        {
+            "x": false,
+            "id": 66379,
+            "category": "Multicultural"
+        },
+        {
+            "x": false,
+            "id": 66380,
+            "category": "Charla amistosa"
+        },
+        {
+            "x": false,
+            "id": 66381,
+            "category": "Bolso lleno de sueños"
+        },
+        {
+            "x": true,
+            "id": 66382,
+            "category": "La alegría del marinero"
+        },
+        {
+            "x": false,
+            "id": 66383,
+            "category": "Butaca mal situada"
+        },
+        {
+            "x": false,
+            "id": 66384,
+            "category": "Miembro fantasma"
+        },
+        {
+            "x": false,
+            "id": 66385,
+            "category": "Silla voladora"
+        },
+        {
+            "x": false,
+            "id": 66386,
+            "category": "Aliento a pescado"
+        },
+        {
+            "x": false,
+            "id": 66387,
+            "category": "Silencioso pero mortal"
+        },
+        {
+            "x": false,
+            "id": 66388,
+            "category": "Sombreros con cerebros"
+        },
+        {
+            "x": false,
+            "id": 66389,
+            "category": "Fiesta pijama"
+        },
+        {
+            "x": false,
+            "id": 66390,
+            "category": "Peluquería a domicilio"
+        },
+        {
+            "x": false,
+            "id": 66391,
+            "category": "Gomitas apestosas"
+        },
+        {
+            "x": false,
+            "id": 66392,
+            "category": "Carrusel de pesadilla"
+        },
+        {
+            "x": true,
+            "id": 66393,
+            "category": "La voltereta de la muerte"
+        },
+        {
+            "x": false,
+            "id": 66394,
+            "category": "Brazo de fideo"
+        },
+        {
+            "x": false,
+            "id": 66395,
+            "category": "Caimán clonado"
+        },
+        {
+            "x": false,
+            "id": 66396,
+            "category": "Esmoquin con velcro"
+        },
+        {
+            "x": false,
+            "id": 66397,
+            "category": "Campo magnético terrestre"
+        },
+        {
+            "x": false,
+            "id": 66398,
+            "category": "Ruidos de hambre"
+        },
+        {
+            "x": true,
+            "id": 66399,
+            "category": "Tumba sin marcar"
+        },
+        {
+            "x": false,
+            "id": 66400,
+            "category": "Un koala millonario"
+        },
+        {
+            "x": false,
+            "id": 66401,
+            "category": "Empanada explosiva"
+        },
+        {
+            "x": false,
+            "id": 66402,
+            "category": "Hernia"
+        },
+        {
+            "x": false,
+            "id": 66403,
+            "category": "Nervios de examen"
+        },
+        {
+            "x": true,
+            "id": 66404,
+            "category": "Diarrea verbal"
+        },
+        {
+            "x": false,
+            "id": 66405,
+            "category": "Leche de soja"
+        },
+        {
+            "x": false,
+            "id": 66406,
+            "category": "Spinning"
+        },
+        {
+            "x": false,
+            "id": 66407,
+            "category": "Sol y nubes"
+        },
+        {
+            "x": false,
+            "id": 66408,
+            "category": "Chica invita a bailar a chico"
+        },
+        {
+            "x": false,
+            "id": 66409,
+            "category": "Indigestión"
+        },
+        {
+            "x": false,
+            "id": 66410,
+            "category": "Lámpara de lava"
+        },
+        {
+            "x": true,
+            "id": 66411,
+            "category": "Cheddar y tocino"
+        },
+        {
+            "x": false,
+            "id": 66412,
+            "category": "Caer de trasero"
+        },
+        {
+            "x": true,
+            "id": 66413,
+            "category": "No es un columpio sexual"
+        },
+        {
+            "x": false,
+            "id": 66414,
+            "category": "Fin de una era"
+        },
+        {
+            "x": false,
+            "id": 66415,
+            "category": "Cepillarse los ojos"
+        },
+        {
+            "x": false,
+            "id": 66417,
+            "category": "Escuchar tu propia voz"
+        },
+        {
+            "x": false,
+            "id": 66419,
+            "category": "Discusión de Twitter"
+        },
+        {
+            "x": false,
+            "id": 66420,
+            "category": "Endodoncia"
+        },
+        {
+            "x": false,
+            "id": 66422,
+            "category": "Instrucciones de ropa interior"
+        },
+        {
+            "x": false,
+            "id": 66423,
+            "category": "Comer en Marte"
+        },
+        {
+            "x": false,
+            "id": 66424,
+            "category": "Langosta psíquica"
+        },
+        {
+            "x": true,
+            "id": 66425,
+            "category": "Breaking Bad con marionetas"
+        },
+        {
+            "x": true,
+            "id": 66426,
+            "category": "Patear los huevos"
+        },
+        {
+            "x": false,
+            "id": 66427,
+            "category": "Lasaña quemada"
+        },
+        {
+            "x": false,
+            "id": 66428,
+            "category": "Niños salvajes"
+        },
+        {
+            "x": false,
+            "id": 66429,
+            "category": "Repartidor sigiloso"
+        },
+        {
+            "x": false,
+            "id": 66430,
+            "category": "Un poeta en la nieve"
+        },
+        {
+            "x": false,
+            "id": 66431,
+            "category": "Un abrigo de ardillas vivas"
+        },
+        {
+            "x": false,
+            "id": 66432,
+            "category": "El presidente Pijama"
+        },
+        {
+            "x": false,
+            "id": 66433,
+            "category": "Alfombra nueva"
+        },
+        {
+            "x": false,
+            "id": 66434,
+            "category": "Baño de barro"
+        },
+        {
+            "x": false,
+            "id": 66435,
+            "category": "Bufón con rayos láser"
+        },
+        {
+            "x": false,
+            "id": 66436,
+            "category": "Don Gato en el tejado"
+        },
+        {
+            "x": false,
+            "id": 66437,
+            "category": "Pelea en el súper con almohadas"
+        },
+        {
+            "x": false,
+            "id": 66438,
+            "category": "Un policía casi jubilado"
+        },
+        {
+            "x": false,
+            "id": 66439,
+            "category": "Un payaso tirado en el sofá"
+        },
+        {
+            "x": false,
+            "id": 66440,
+            "category": "Admirador secreto"
+        },
+        {
+            "x": false,
+            "id": 66441,
+            "category": "Club de desamores"
+        },
+        {
+            "x": false,
+            "id": 66442,
+            "category": "Sin suerte en el amor"
+        },
+        {
+            "x": false,
+            "id": 66443,
+            "category": "Suerte de estar con vida"
+        },
+        {
+            "x": false,
+            "id": 66444,
+            "category": "Abrazarse"
+        },
+        {
+            "x": false,
+            "id": 66445,
+            "category": "No puedo dejar de pensar en un filete"
+        },
+        {
+            "x": false,
+            "id": 66446,
+            "category": "Aliento matutino"
+        },
+        {
+            "x": false,
+            "id": 66447,
+            "category": "Gorra de la suerte"
+        },
+        {
+            "x": false,
+            "id": 66448,
+            "category": "Manos sudadas"
+        },
+        {
+            "x": false,
+            "id": 66449,
+            "category": "Galleta de emergencia"
+        },
+        {
+            "x": false,
+            "id": 66450,
+            "category": "Músico esqueleto"
+        },
+        {
+            "x": false,
+            "id": 66451,
+            "category": "Agua con gas"
+        },
+        {
+            "x": false,
+            "id": 66452,
+            "category": "Inmaduro"
+        },
+        {
+            "x": false,
+            "id": 66453,
+            "category": "Pizza de pulpo"
+        },
+        {
+            "x": false,
+            "id": 66454,
+            "category": "Información privilegiada"
+        },
+        {
+            "x": true,
+            "id": 66455,
+            "category": "Ano tenebroso"
+        },
+        {
+            "x": false,
+            "id": 66456,
+            "category": "Aceitunas rellenas"
+        },
+        {
+            "x": true,
+            "id": 66457,
+            "category": "El sol se enrolla con la luna "
+        },
+        {
+            "x": false,
+            "id": 66458,
+            "category": "Cuántas muñecas"
+        },
+        {
+            "x": false,
+            "id": 66459,
+            "category": "Baile de promoción penoso"
+        },
+        {
+            "x": false,
+            "id": 66460,
+            "category": "Cien gaviotas"
+        },
+        {
+            "x": false,
+            "id": 66461,
+            "category": "Pizza carbonara"
+        },
+        {
+            "x": false,
+            "id": 66462,
+            "category": "¡Hay algo en el ala del avión!"
+        },
+        {
+            "x": false,
+            "id": 66463,
+            "category": "Peluca barata"
+        },
+        {
+            "x": false,
+            "id": 66464,
+            "category": "Póster tamaño real"
+        },
+        {
+            "x": false,
+            "id": 66465,
+            "category": "Conozco un tipo que conoce un tipo"
+        },
+        {
+            "x": false,
+            "id": 66466,
+            "category": "Miedo a los hámsteres"
+        },
+        {
+            "x": false,
+            "id": 66467,
+            "category": "Charla motivacional"
+        },
+        {
+            "x": true,
+            "id": 66468,
+            "category": "Ropa pintada"
+        },
+        {
+            "x": false,
+            "id": 66469,
+            "category": "Pirámides y triángulos"
+        },
+        {
+            "x": false,
+            "id": 66470,
+            "category": "Calcetines sueltos"
+        },
+        {
+            "x": false,
+            "id": 66471,
+            "category": "Enfado con la vida"
+        },
+        {
+            "x": false,
+            "id": 66472,
+            "category": "No me tires del dedo"
+        },
+        {
+            "x": false,
+            "id": 66473,
+            "category": "Pistola de agua con ácido"
+        },
+        {
+            "x": false,
+            "id": 66474,
+            "category": "Árboles calavera"
+        },
+        {
+            "x": false,
+            "id": 66475,
+            "category": "Perro con cresta"
+        },
+        {
+            "x": true,
+            "id": 66476,
+            "category": "Un tipo que recoge ropa interior"
+        },
+        {
+            "x": false,
+            "id": 66477,
+            "category": "Interior de la nariz"
+        },
+        {
+            "x": false,
+            "id": 66478,
+            "category": "Caramelo de tofi"
+        },
+        {
+            "x": false,
+            "id": 66479,
+            "category": "Ventanas tintadas"
+        },
+        {
+            "x": false,
+            "id": 66480,
+            "category": "Gente hospitalaria"
+        },
+        {
+            "x": false,
+            "id": 66481,
+            "category": "Créeme, se puede tocar"
+        },
+        {
+            "x": false,
+            "id": 66482,
+            "category": "¡No tengo hijos!"
+        },
+        {
+            "x": false,
+            "id": 66483,
+            "category": "Bolas de pelo"
+        },
+        {
+            "x": false,
+            "id": 66484,
+            "category": "Bolso lleno de deseos"
+        },
+        {
+            "x": false,
+            "id": 66485,
+            "category": "Un robo sin resolver"
+        },
+        {
+            "x": false,
+            "id": 66486,
+            "category": "Fiesta de punteros láser"
+        },
+        {
+            "x": false,
+            "id": 66487,
+            "category": "Una pequeña rabieta"
+        },
+        {
+            "x": false,
+            "id": 66488,
+            "category": "Un ratón en una pizza"
+        },
+        {
+            "x": false,
+            "id": 66489,
+            "category": "Me casé con Pablo Picasso"
+        },
+        {
+            "x": false,
+            "id": 66490,
+            "category": "Cuidador de árboles"
+        },
+        {
+            "x": false,
+            "id": 66491,
+            "category": "Toser tenedores"
+        },
+        {
+            "x": false,
+            "id": 66492,
+            "category": "Gatos detective"
+        },
+        {
+            "x": false,
+            "id": 66493,
+            "category": "Espejo adelgazante"
+        },
+        {
+            "x": false,
+            "id": 66494,
+            "category": "Atrapado en una fiesta"
+        },
+        {
+            "x": false,
+            "id": 66495,
+            "category": "Me olvidé de votar"
+        },
+        {
+            "x": true,
+            "id": 66496,
+            "category": "Defender a un asesino"
+        },
+        {
+            "x": false,
+            "id": 66497,
+            "category": "Trampa para unicornios"
+        },
+        {
+            "x": true,
+            "id": 66498,
+            "category": "Muerte por exceso de flan"
+        },
+        {
+            "x": false,
+            "id": 66499,
+            "category": "Mala interpretación"
+        },
+        {
+            "x": false,
+            "id": 66500,
+            "category": "Un perro muy inteligente"
+        },
+        {
+            "x": false,
+            "id": 66501,
+            "category": "Un capitán emocionado"
+        },
+        {
+            "x": true,
+            "id": 66502,
+            "category": "Abrigo de serpiente"
+        },
+        {
+            "x": false,
+            "id": 66503,
+            "category": "Neoyorquino educado"
+        },
+        {
+            "x": false,
+            "id": 66504,
+            "category": "Plutón vuelve a ser un planeta"
+        },
+        {
+            "x": false,
+            "id": 66505,
+            "category": "Banda de moteros voladores"
+        },
+        {
+            "x": true,
+            "id": 66506,
+            "category": "Dos tipos fuman del mismo cigarro"
+        },
+        {
+            "x": false,
+            "id": 66507,
+            "category": "Lado malo de la cama "
+        },
+        {
+            "x": false,
+            "id": 66508,
+            "category": "Dos niños montados en un ciervo"
+        },
+        {
+            "x": true,
+            "id": 66509,
+            "category": "Darth Vader se depila las piernas"
+        },
+        {
+            "x": false,
+            "id": 66510,
+            "category": "Me comí una batería de coche"
+        },
+        {
+            "x": false,
+            "id": 66511,
+            "category": "Sábanas arrugadas"
+        },
+        {
+            "x": true,
+            "id": 66512,
+            "category": "Reunión de perdedores"
+        },
+        {
+            "x": false,
+            "id": 66513,
+            "category": "Aquí no cabemos"
+        },
+        {
+            "x": false,
+            "id": 66514,
+            "category": "¡No voy a pagar por este jamón!"
+        },
+        {
+            "x": true,
+            "id": 66515,
+            "category": "Depilación láser"
+        },
+        {
+            "x": false,
+            "id": 66516,
+            "category": "Hundimiento del mercado bursátil"
+        },
+        {
+            "x": true,
+            "id": 66517,
+            "category": "Ropa interior favorita"
+        },
+        {
+            "x": false,
+            "id": 66518,
+            "category": "Música grunge"
+        },
+        {
+            "x": false,
+            "id": 66519,
+            "category": "Mi marido el sepulturero"
+        },
+        {
+            "x": false,
+            "id": 66520,
+            "category": "Puedo ver la música"
+        },
+        {
+            "x": false,
+            "id": 66521,
+            "category": "Carrera divertida"
+        },
+        {
+            "x": false,
+            "id": 66522,
+            "category": "El tanque dispara salsa"
+        },
+        {
+            "x": false,
+            "id": 66523,
+            "category": "Sobrecarga cerebral"
+        },
+        {
+            "x": false,
+            "id": 66524,
+            "category": "Perfume de cerdo"
+        },
+        {
+            "x": false,
+            "id": 66525,
+            "category": "La vesícula me ha vuelto a crecer"
+        },
+        {
+            "x": false,
+            "id": 66526,
+            "category": "Un rombo mal dibujado"
+        },
+        {
+            "x": false,
+            "id": 66527,
+            "category": "Esmoquin pijama"
+        },
+        {
+            "x": false,
+            "id": 66528,
+            "category": "Sin imaginación"
+        },
+        {
+            "x": false,
+            "id": 66529,
+            "category": "La batamanta"
+        },
+        {
+            "x": true,
+            "id": 66530,
+            "category": "Sexo salvaje"
+        },
+        {
+            "x": false,
+            "id": 66531,
+            "category": "Ambiente familiar"
+        },
+        {
+            "x": false,
+            "id": 66532,
+            "category": "Cómo te gusta hacerte la víctima"
+        },
+        {
+            "x": false,
+            "id": 66533,
+            "category": "Tengo miopía"
+        },
+        {
+            "x": false,
+            "id": 66534,
+            "category": "Un gato con un secreto"
+        },
+        {
+            "x": false,
+            "id": 66535,
+            "category": "¡Comamos nieve!"
+        },
+        {
+            "x": false,
+            "id": 66536,
+            "category": "Romance de cafetería"
+        },
+        {
+            "x": false,
+            "id": 66537,
+            "category": "Compro ciervos"
+        },
+        {
+            "x": false,
+            "id": 66538,
+            "category": "Ojos de huevo"
+        },
+        {
+            "x": true,
+            "id": 66539,
+            "category": "Tensión sexual"
+        },
+        {
+            "x": true,
+            "id": 66540,
+            "category": "Ropa interior transparente"
+        },
+        {
+            "x": false,
+            "id": 66541,
+            "category": "Miedo al queso"
+        },
+        {
+            "x": false,
+            "id": 66542,
+            "category": "Ventrílocuo"
+        },
+        {
+            "x": false,
+            "id": 66543,
+            "category": "Alaska conoce a la momia"
+        },
+        {
+            "x": false,
+            "id": 66544,
+            "category": "La casa de papel"
+        },
+        {
+            "x": false,
+            "id": 66545,
+            "category": "Celular malo"
+        },
+        {
+            "x": false,
+            "id": 66546,
+            "category": "Foto encantada"
+        },
+        {
+            "x": false,
+            "id": 66547,
+            "category": "Puñetazo a cámara lenta"
+        },
+        {
+            "x": false,
+            "id": 66548,
+            "category": "El mal querer"
+        },
+        {
+            "x": false,
+            "id": 66549,
+            "category": "El más fiestero"
+        },
+        {
+            "x": false,
+            "id": 66550,
+            "category": "Nirvana"
+        },
+        {
+            "x": false,
+            "id": 66551,
+            "category": "La forma correcta de comer rata"
+        },
+        {
+            "x": true,
+            "id": 66552,
+            "category": "Intento de asesinato"
+        },
+        {
+            "x": true,
+            "id": 66553,
+            "category": "Juego de disparos en primera persona"
+        },
+        {
+            "x": true,
+            "id": 66554,
+            "category": "Taxi mágico"
+        },
+        {
+            "x": false,
+            "id": 66555,
+            "category": "Osos depilados"
+        },
+        {
+            "x": true,
+            "id": 66556,
+            "category": "Me explota la vejiga"
+        },
+        {
+            "x": false,
+            "id": 66557,
+            "category": "Caricias agresivas"
+        },
+        {
+            "x": false,
+            "id": 66558,
+            "category": "Un águila con una cuchara de madera"
+        },
+        {
+            "x": false,
+            "id": 66559,
+            "category": "Palos y cosas"
+        },
+        {
+            "x": false,
+            "id": 66560,
+            "category": "Caos total"
+        },
+        {
+            "x": false,
+            "id": 66561,
+            "category": "Edu el niño de Navidad"
+        },
+        {
+            "x": false,
+            "id": 66562,
+            "category": "Campeones"
+        },
+        {
+            "x": false,
+            "id": 66563,
+            "category": "Sótano tenebroso"
+        },
+        {
+            "x": false,
+            "id": 66564,
+            "category": "Montaña rusa se cae al vacío"
+        },
+        {
+            "x": false,
+            "id": 66565,
+            "category": "Mis dientes son grageas"
+        },
+        {
+            "x": false,
+            "id": 66566,
+            "category": "Cervantes comiendo una salchicha"
+        },
+        {
+            "x": false,
+            "id": 66567,
+            "category": "Policía de las cosquillas"
+        },
+        {
+            "x": true,
+            "id": 66568,
+            "category": "Pistola al revés"
+        },
+        {
+            "x": false,
+            "id": 66569,
+            "category": "Masaje doloroso"
+        },
+        {
+            "x": false,
+            "id": 66570,
+            "category": "Brocheta ambulante"
+        },
+        {
+            "x": false,
+            "id": 66571,
+            "category": "Ajedrez mágico"
+        },
+        {
+            "x": false,
+            "id": 66572,
+            "category": "Pagacenas"
+        },
+        {
+            "x": false,
+            "id": 66573,
+            "category": "Todos estornudamos"
+        },
+        {
+            "x": false,
+            "id": 66574,
+            "category": "La catedral del mar"
+        },
+        {
+            "x": false,
+            "id": 66575,
+            "category": "Me tragué un fantasma"
+        },
+        {
+            "x": false,
+            "id": 66576,
+            "category": "Un ingeniero se casa con un neurocirujano"
+        },
+        {
+            "x": false,
+            "id": 66577,
+            "category": "Dos tercios de Green Day"
+        },
+        {
+            "x": false,
+            "id": 66578,
+            "category": "Visitar a los padres"
+        },
+        {
+            "x": false,
+            "id": 66579,
+            "category": "Criticar por criticar"
+        },
+        {
+            "x": false,
+            "id": 66580,
+            "category": "Amor de hermanos"
+        },
+        {
+            "x": false,
+            "id": 66581,
+            "category": "Sandías por ruedas"
+        },
+        {
+            "x": false,
+            "id": 66582,
+            "category": "Campamento de adultos"
+        },
+        {
+            "x": false,
+            "id": 66583,
+            "category": "Mezclar bebidas"
+        },
+        {
+            "x": false,
+            "id": 66584,
+            "category": "Presidente del club"
+        },
+        {
+            "x": true,
+            "id": 66585,
+            "category": "Fuente de sangre"
+        },
+        {
+            "x": true,
+            "id": 66586,
+            "category": "Besarse en el baño"
+        },
+        {
+            "x": false,
+            "id": 66587,
+            "category": "Entre dos tierras"
+        },
+        {
+            "x": false,
+            "id": 66588,
+            "category": "El Retiro tras un apocalipsis"
+        },
+        {
+            "x": false,
+            "id": 66589,
+            "category": "Perro ladrón"
+        },
+        {
+            "x": false,
+            "id": 66590,
+            "category": "La Rioja"
+        },
+        {
+            "x": false,
+            "id": 66591,
+            "category": "Aferrarse a la juventud"
+        },
+        {
+            "x": false,
+            "id": 66592,
+            "category": "Alfombra de la cueva"
+        },
+        {
+            "x": false,
+            "id": 66593,
+            "category": "El sol me confunde"
+        },
+        {
+            "x": false,
+            "id": 66594,
+            "category": "Hermanos de abrigo"
+        },
+        {
+            "x": false,
+            "id": 66595,
+            "category": "Terrores nocturnos"
+        },
+        {
+            "x": false,
+            "id": 66596,
+            "category": "Se me cayó la sal"
+        },
+        {
+            "x": false,
+            "id": 66597,
+            "category": "Lluvia de cuchillos"
+        },
+        {
+            "x": false,
+            "id": 66598,
+            "category": "Tatuaje en la espalda baja"
+        },
+        {
+            "x": false,
+            "id": 66599,
+            "category": "Postura perfecta"
+        },
+        {
+            "x": false,
+            "id": 66600,
+            "category": "Mal choque de palmas"
+        },
+        {
+            "x": false,
+            "id": 66601,
+            "category": "Foca guiñando"
+        },
+        {
+            "x": false,
+            "id": 66602,
+            "category": "Un pie enfermo"
+        },
+        {
+            "x": false,
+            "id": 66603,
+            "category": "Insomnio"
+        },
+        {
+            "x": false,
+            "id": 66604,
+            "category": "Crecimiento"
+        },
+        {
+            "x": false,
+            "id": 66605,
+            "category": "Dedos de los pies que miden igual"
+        },
+        {
+            "x": true,
+            "id": 66606,
+            "category": "Acechar desde el arbusto"
+        },
+        {
+            "x": false,
+            "id": 66607,
+            "category": "Velas en el ático"
+        },
+        {
+            "x": true,
+            "id": 66608,
+            "category": "Enseñar carne"
+        },
+        {
+            "x": false,
+            "id": 66609,
+            "category": "Protesta triste"
+        },
+        {
+            "x": false,
+            "id": 66610,
+            "category": "Niño ejecutivo"
+        },
+        {
+            "x": false,
+            "id": 66611,
+            "category": "Guantes mágicos"
+        },
+        {
+            "x": true,
+            "id": 66612,
+            "category": "La niña de The Ring"
+        },
+        {
+            "x": false,
+            "id": 66613,
+            "category": "Estoy atracando la granja"
+        },
+        {
+            "x": false,
+            "id": 66614,
+            "category": "Suelo resbaladizo"
+        },
+        {
+            "x": false,
+            "id": 66615,
+            "category": "Un perro triste con permanente"
+        },
+        {
+            "x": false,
+            "id": 66616,
+            "category": "Soy daltónico"
+        },
+        {
+            "x": false,
+            "id": 66617,
+            "category": "Abracadabra"
+        },
+        {
+            "x": false,
+            "id": 66618,
+            "category": "Acaricio la tele"
+        },
+        {
+            "x": false,
+            "id": 66619,
+            "category": "Aplástalo"
+        },
+        {
+            "x": false,
+            "id": 66620,
+            "category": "Don Limpio se tatúa"
+        },
+        {
+            "x": false,
+            "id": 66622,
+            "category": "Llovizna"
+        },
+        {
+            "x": true,
+            "id": 66623,
+            "category": "El asesino del Zodiaco"
+        },
+        {
+            "x": true,
+            "id": 66624,
+            "category": "Peter Pan muerto"
+        },
+        {
+            "x": false,
+            "id": 66625,
+            "category": "Unos drones tirando baquetas"
+        },
+        {
+            "x": false,
+            "id": 66626,
+            "category": "Lenguaje secreto de los gemelos"
+        },
+        {
+            "x": false,
+            "id": 66627,
+            "category": "Regalo de boda de última hora"
+        },
+        {
+            "x": false,
+            "id": 66628,
+            "category": "Rodeo de arañas"
+        },
+        {
+            "x": false,
+            "id": 66629,
+            "category": "Calzoncillos de Chanel"
+        },
+        {
+            "x": false,
+            "id": 66630,
+            "category": "Le ha pasado algo malo a esta calabaza"
+        },
+        {
+            "x": true,
+            "id": 66631,
+            "category": "Cantante chupando un micrófono"
+        },
+        {
+            "x": false,
+            "id": 66632,
+            "category": "Peste negra"
+        },
+        {
+            "x": false,
+            "id": 66633,
+            "category": "Bordes de pizza en el sofá"
+        },
+        {
+            "x": false,
+            "id": 66634,
+            "category": "Traje de gordo"
+        },
+        {
+            "x": false,
+            "id": 66635,
+            "category": "¡Eureka!"
+        },
+        {
+            "x": true,
+            "id": 66636,
+            "category": "Esqueleto adolescente"
+        },
+        {
+            "x": false,
+            "id": 66637,
+            "category": "Autorretrato"
+        },
+        {
+            "x": false,
+            "id": 66638,
+            "category": "No vuelvo a comer chicle"
+        },
+        {
+            "x": false,
+            "id": 66639,
+            "category": "Fingir que lees"
+        },
+        {
+            "x": false,
+            "id": 66640,
+            "category": "Cobarde"
+        },
+        {
+            "x": false,
+            "id": 66641,
+            "category": "Sudar mucho"
+        },
+        {
+            "x": false,
+            "id": 66642,
+            "category": "Todas mis fotos están en la nube"
+        },
+        {
+            "x": false,
+            "id": 66643,
+            "category": "Calentamiento global"
+        },
+        {
+            "x": true,
+            "id": 66644,
+            "category": "Cortacésped volador"
+        },
+        {
+            "x": false,
+            "id": 66645,
+            "category": "Tenis extremo"
+        },
+        {
+            "x": false,
+            "id": 66646,
+            "category": "Un cambiador de bebé"
+        },
+        {
+            "x": false,
+            "id": 66647,
+            "category": "Una piscina diminuta"
+        },
+        {
+            "x": false,
+            "id": 66648,
+            "category": "Trasplante de cabeza"
+        },
+        {
+            "x": false,
+            "id": 66649,
+            "category": "Tragar"
+        },
+        {
+            "x": false,
+            "id": 66650,
+            "category": "Introvertido"
+        },
+        {
+            "x": false,
+            "id": 66651,
+            "category": "Desfile de pijamas"
+        },
+        {
+            "x": false,
+            "id": 66652,
+            "category": "Pistola de maquillaje"
+        },
+        {
+            "x": false,
+            "id": 66653,
+            "category": "Tengo una cita en la alcantarilla"
+        },
+        {
+            "x": false,
+            "id": 66654,
+            "category": "Bacteria"
+        },
+        {
+            "x": false,
+            "id": 66655,
+            "category": "Un Subway"
+        },
+        {
+            "x": false,
+            "id": 66656,
+            "category": "Un astronauta llorando"
+        },
+        {
+            "x": false,
+            "id": 66657,
+            "category": "Sirena para cenar"
+        },
+        {
+            "x": true,
+            "id": 66658,
+            "category": "Cinturón de castidad"
+        },
+        {
+            "x": true,
+            "id": 66659,
+            "category": "Arena en el trasero"
+        },
+        {
+            "x": false,
+            "id": 66660,
+            "category": "El horrible doble de cuerpo de La Roca"
+        },
+        {
+            "x": false,
+            "id": 66661,
+            "category": "Un tipo fuerte con piernas delgadas"
+        },
+        {
+            "x": true,
+            "id": 66662,
+            "category": "Carnicero vegano\r\n"
+        },
+        {
+            "x": false,
+            "id": 66663,
+            "category": "Un juez esconde un poni bajo la toga"
+        },
+        {
+            "x": true,
+            "id": 66664,
+            "category": "La calavera de Al Capone"
+        },
+        {
+            "x": true,
+            "id": 66665,
+            "category": "Fascismo"
+        },
+        {
+            "x": false,
+            "id": 66666,
+            "category": "Policía bueno, policía bueno"
+        },
+        {
+            "x": false,
+            "id": 66667,
+            "category": "Máquina de humo"
+        },
+        {
+            "x": false,
+            "id": 66668,
+            "category": "Profesor rico"
+        },
+        {
+            "x": false,
+            "id": 66669,
+            "category": "Votantes indecisos "
+        },
+        {
+            "x": false,
+            "id": 66670,
+            "category": "Camisa de velcro"
+        },
+        {
+            "x": false,
+            "id": 66671,
+            "category": "Me escondo del jefe"
+        },
+        {
+            "x": false,
+            "id": 66672,
+            "category": "Una pizza por fax"
+        },
+        {
+            "x": false,
+            "id": 66673,
+            "category": "Charla de ascensor"
+        },
+        {
+            "x": false,
+            "id": 66674,
+            "category": "Arte abstracto"
+        },
+        {
+            "x": false,
+            "id": 66675,
+            "category": "Un montón de equis"
+        },
+        {
+            "x": false,
+            "id": 66676,
+            "category": "Calculadora gigante"
+        },
+        {
+            "x": false,
+            "id": 66677,
+            "category": "Pavo seco"
+        },
+        {
+            "x": false,
+            "id": 66678,
+            "category": "Ayunar"
+        },
+        {
+            "x": false,
+            "id": 66679,
+            "category": "El Sol dispara a la Tierra"
+        },
+        {
+            "x": false,
+            "id": 66680,
+            "category": "Fuegos artificiales defectuosos"
+        },
+        {
+            "x": true,
+            "id": 66681,
+            "category": "Oso con hemorroides"
+        },
+        {
+            "x": false,
+            "id": 66682,
+            "category": "Caballo de segunda mano"
+        },
+        {
+            "x": false,
+            "id": 66683,
+            "category": "Castigo después de clase"
+        },
+        {
+            "x": false,
+            "id": 66684,
+            "category": "Gato karateka"
+        },
+        {
+            "x": false,
+            "id": 66685,
+            "category": "Pensamientos interrumpidos"
+        },
+        {
+            "x": false,
+            "id": 66686,
+            "category": "Romper en público"
+        },
+        {
+            "x": false,
+            "id": 66687,
+            "category": "Nutria triste"
+        },
+        {
+            "x": false,
+            "id": 66688,
+            "category": "¡Devuélveme mi basura!"
+        },
+        {
+            "x": false,
+            "id": 66689,
+            "category": "Escuchar la puesta de sol"
+        },
+        {
+            "x": false,
+            "id": 66690,
+            "category": "Avería"
+        },
+        {
+            "x": false,
+            "id": 66691,
+            "category": "La avaricia es buena"
+        },
+        {
+            "x": true,
+            "id": 66692,
+            "category": "Pedo arcoíris"
+        },
+        {
+            "x": false,
+            "id": 66693,
+            "category": "Mantita de bebé"
+        },
+        {
+            "x": false,
+            "id": 66694,
+            "category": "Un animador de crucero"
+        },
+        {
+            "x": false,
+            "id": 66695,
+            "category": "Tengo un frijol en la nariz"
+        },
+        {
+            "x": false,
+            "id": 66696,
+            "category": "Gorro lleno de crema"
+        },
+        {
+            "x": false,
+            "id": 66697,
+            "category": "Alcalde de Villafiesta"
+        },
+        {
+            "x": false,
+            "id": 66698,
+            "category": "Alienígena construye las pirámides"
+        },
+        {
+            "x": true,
+            "id": 66699,
+            "category": "Escupir en un billete"
+        },
+        {
+            "x": true,
+            "id": 66700,
+            "category": "De resaca"
+        },
+        {
+            "x": false,
+            "id": 66701,
+            "category": "¡Me comí los huesos!"
+        },
+        {
+            "x": false,
+            "id": 66702,
+            "category": "Foto de orla"
+        },
+        {
+            "x": false,
+            "id": 66703,
+            "category": "Todoterreno"
+        },
+        {
+            "x": false,
+            "id": 66704,
+            "category": "Primer plano de un ombligo"
+        },
+        {
+            "x": false,
+            "id": 66705,
+            "category": "Baño de salsa"
+        },
+        {
+            "x": false,
+            "id": 66706,
+            "category": "¡Mis pies son rastrillos!"
+        },
+        {
+            "x": false,
+            "id": 66707,
+            "category": "Millonario excéntrico"
+        },
+        {
+            "x": false,
+            "id": 66708,
+            "category": "Bebé leñador"
+        },
+        {
+            "x": false,
+            "id": 66709,
+            "category": "Un chaleco salvavidas precioso"
+        },
+        {
+            "x": false,
+            "id": 66710,
+            "category": "Tonterías"
+        },
+        {
+            "x": false,
+            "id": 66711,
+            "category": "Voldemort recoge manzanas"
+        },
+        {
+            "x": true,
+            "id": 66712,
+            "category": "Eructo de fantasma"
+        },
+        {
+            "x": true,
+            "id": 66713,
+            "category": "Terapia de pareja"
+        },
+        {
+            "x": false,
+            "id": 66715,
+            "category": "Alergia al aire"
+        },
+        {
+            "x": false,
+            "id": 66716,
+            "category": "Mecánico de caballos"
+        },
+        {
+            "x": false,
+            "id": 66717,
+            "category": "Sueño con una ensalada"
+        },
+        {
+            "x": false,
+            "id": 66718,
+            "category": "La boca llena de canicas"
+        },
+        {
+            "x": false,
+            "id": 66719,
+            "category": "Guerra de dulces"
+        },
+        {
+            "x": true,
+            "id": 66720,
+            "category": "Baile de graduación gótico"
+        },
+        {
+            "x": false,
+            "id": 66721,
+            "category": "Este hula hoop me está matando"
+        },
+        {
+            "x": false,
+            "id": 66722,
+            "category": "Los malotes del coro"
+        },
+        {
+            "x": false,
+            "id": 66723,
+            "category": "Matrimonio entre parejas de gemelos"
+        },
+        {
+            "x": false,
+            "id": 66724,
+            "category": "Sushi explosivo"
+        },
+        {
+            "x": false,
+            "id": 66725,
+            "category": "Una piscina llena de lechuga"
+        },
+        {
+            "x": true,
+            "id": 66726,
+            "category": "Vivo en un elefante muerto"
+        },
+        {
+            "x": false,
+            "id": 66727,
+            "category": "Enviar nuestra basura al sol"
+        },
+        {
+            "x": false,
+            "id": 66728,
+            "category": "Una pelea"
+        },
+        {
+            "x": false,
+            "id": 66729,
+            "category": "Café suave"
+        },
+        {
+            "x": false,
+            "id": 66730,
+            "category": "¡Eh, es el tipo con orejas de elefante!"
+        },
+        {
+            "x": false,
+            "id": 66731,
+            "category": "Arte rupestre absurdo"
+        },
+        {
+            "x": false,
+            "id": 66732,
+            "category": "Oler un bocadillo"
+        },
+        {
+            "x": false,
+            "id": 66733,
+            "category": "Gritar a un cepillo de dientes"
+        },
+        {
+            "x": false,
+            "id": 66734,
+            "category": "¡Noche de chicos!"
+        },
+        {
+            "x": false,
+            "id": 66735,
+            "category": "Video viral"
+        },
+        {
+            "x": false,
+            "id": 66736,
+            "category": "Escupir la bebida"
+        },
+        {
+            "x": false,
+            "id": 66737,
+            "category": "Helicóptero anfibio"
+        },
+        {
+            "x": true,
+            "id": 66738,
+            "category": "Amante torpe"
+        },
+        {
+            "x": false,
+            "id": 66739,
+            "category": "Bailar en la oscuridad"
+        },
+        {
+            "x": false,
+            "id": 66740,
+            "category": "Secretos"
+        },
+        {
+            "x": false,
+            "id": 66741,
+            "category": "En el mismo vuelo que Jim Carrey"
+        },
+        {
+            "x": false,
+            "id": 66742,
+            "category": "Sueño febril"
+        },
+        {
+            "x": false,
+            "id": 66743,
+            "category": "Museo del cacahuete"
+        },
+        {
+            "x": false,
+            "id": 66744,
+            "category": "Gorro ridículo"
+        },
+        {
+            "x": false,
+            "id": 66745,
+            "category": "Aplauso lento"
+        },
+        {
+            "x": false,
+            "id": 66746,
+            "category": "Lees una galleta de la fortuna sorprendente"
+        },
+        {
+            "x": false,
+            "id": 66747,
+            "category": "Croma verde"
+        },
+        {
+            "x": false,
+            "id": 66748,
+            "category": "Mi segundo trabajo"
+        },
+        {
+            "x": false,
+            "id": 66749,
+            "category": "Te arrepientes de la compra"
+        },
+        {
+            "x": false,
+            "id": 66750,
+            "category": "Aire"
+        },
+        {
+            "x": false,
+            "id": 66751,
+            "category": "Acolchado feo"
+        },
+        {
+            "x": false,
+            "id": 66752,
+            "category": "Máquina del tiempo rota"
+        },
+        {
+            "x": false,
+            "id": 66753,
+            "category": "Dormir con un canguro"
+        },
+        {
+            "x": false,
+            "id": 66754,
+            "category": "Cinturón de perlas"
+        },
+        {
+            "x": false,
+            "id": 66755,
+            "category": "Un príncipe rarito"
+        },
+        {
+            "x": false,
+            "id": 66756,
+            "category": "Paranoia"
+        },
+        {
+            "x": true,
+            "id": 66757,
+            "category": "Novia virtual"
+        },
+        {
+            "x": false,
+            "id": 66758,
+            "category": "Caja llena de vendas usadas"
+        },
+        {
+            "x": false,
+            "id": 66759,
+            "category": "Mayordomo gigante"
+        },
+        {
+            "x": false,
+            "id": 66760,
+            "category": "Qué falta de educación"
+        },
+        {
+            "x": true,
+            "id": 66761,
+            "category": "Masturbación"
+        },
+        {
+            "x": false,
+            "id": 66762,
+            "category": "Jabón bonito"
+        },
+        {
+            "x": true,
+            "id": 66763,
+            "category": "Practicar un beso"
+        },
+        {
+            "x": false,
+            "id": 66764,
+            "category": "Nudillos"
+        },
+        {
+            "x": true,
+            "id": 66765,
+            "category": "León con el trasero caído"
+        },
+        {
+            "x": false,
+            "id": 66766,
+            "category": "¡He parpadeado!"
+        },
+        {
+            "x": false,
+            "id": 66767,
+            "category": "Bola de bolos flotante"
+        },
+        {
+            "x": false,
+            "id": 66768,
+            "category": "Gente de la farándula"
+        },
+        {
+            "x": false,
+            "id": 66769,
+            "category": "Almohada con gafas de sol"
+        },
+        {
+            "x": false,
+            "id": 66770,
+            "category": "Sueño de un hombre aburrido"
+        },
+        {
+            "x": false,
+            "id": 66771,
+            "category": "Amnesia"
+        },
+        {
+            "x": false,
+            "id": 66772,
+            "category": "Empresario punk"
+        },
+        {
+            "x": false,
+            "id": 66773,
+            "category": "Murciélagos en el horno"
+        },
+        {
+            "x": false,
+            "id": 66774,
+            "category": "Ataque de pánico"
+        },
+        {
+            "x": false,
+            "id": 66775,
+            "category": "Sudor de espalda"
+        },
+        {
+            "x": false,
+            "id": 66776,
+            "category": "Un buen estudiante"
+        },
+        {
+            "x": false,
+            "id": 66777,
+            "category": "Las ardillas te miran fijamente"
+        },
+        {
+            "x": false,
+            "id": 66778,
+            "category": "Ciruelas"
+        },
+        {
+            "x": true,
+            "id": 66779,
+            "category": "Escupir en una hamburguesa"
+        },
+        {
+            "x": false,
+            "id": 66780,
+            "category": "Cobra gruesa"
+        },
+        {
+            "x": false,
+            "id": 66781,
+            "category": "Piña explosiva"
+        },
+        {
+            "x": false,
+            "id": 66782,
+            "category": "Padre e hijo viendo el fútbol en silencio"
+        },
+        {
+            "x": false,
+            "id": 66783,
+            "category": "Telépata"
+        },
+        {
+            "x": false,
+            "id": 66784,
+            "category": "Baile supersecreto"
+        },
+        {
+            "x": false,
+            "id": 66785,
+            "category": "Piojos"
+        },
+        {
+            "x": false,
+            "id": 66786,
+            "category": "Vaqueros holgados"
+        },
+        {
+            "x": false,
+            "id": 66787,
+            "category": "¡Mi mujer!"
+        },
+        {
+            "x": false,
+            "id": 66788,
+            "category": "Clima falso"
+        },
+        {
+            "x": true,
+            "id": 66789,
+            "category": "Bidé"
+        },
+        {
+            "x": false,
+            "id": 66791,
+            "category": "Se me cayó mi lente de contacto"
+        },
+        {
+            "x": false,
+            "id": 66792,
+            "category": "Juzgado de guardia"
+        },
+        {
+            "x": false,
+            "id": 66793,
+            "category": "Tarta de cumpleaños con moho"
+        },
+        {
+            "x": false,
+            "id": 66794,
+            "category": "Colecciono pelos de la nariz"
+        },
+        {
+            "x": false,
+            "id": 66795,
+            "category": "Barba anticuada"
+        },
+        {
+            "x": false,
+            "id": 66796,
+            "category": "Romance extraño"
+        },
+        {
+            "x": false,
+            "id": 66797,
+            "category": "Guarda del zoo incompetente"
+        },
+        {
+            "x": true,
+            "id": 66798,
+            "category": "Demonio estornudando"
+        },
+        {
+            "x": false,
+            "id": 66799,
+            "category": "Llorar en la ducha"
+        },
+        {
+            "x": false,
+            "id": 66800,
+            "category": "Milagro"
+        },
+        {
+            "x": false,
+            "id": 66801,
+            "category": "Perfume de perro"
+        },
+        {
+            "x": false,
+            "id": 66802,
+            "category": "Solo de armónica"
+        },
+        {
+            "x": false,
+            "id": 66803,
+            "category": "Cantante de ópera con alas de dragón"
+        },
+        {
+            "x": true,
+            "id": 66804,
+            "category": "El mejor amigo de Dios"
+        },
+        {
+            "x": false,
+            "id": 66805,
+            "category": "Un minifaro"
+        },
+        {
+            "x": false,
+            "id": 66806,
+            "category": "Comerse una piña"
+        },
+        {
+            "x": false,
+            "id": 66807,
+            "category": "Piñata llena de abejas"
+        },
+        {
+            "x": false,
+            "id": 66808,
+            "category": "Doctor del siglo XIX"
+        },
+        {
+            "x": false,
+            "id": 66809,
+            "category": "Bufanda gigante"
+        },
+        {
+            "x": true,
+            "id": 66811,
+            "category": "Fingir que vomitas"
+        },
+        {
+            "x": false,
+            "id": 66812,
+            "category": "Un hombre con patines montado en bici"
+        },
+        {
+            "x": false,
+            "id": 66813,
+            "category": "Un batido del árbol de batidos"
+        },
+        {
+            "x": false,
+            "id": 66814,
+            "category": "Un vaquero con sentido de la moda"
+        },
+        {
+            "x": true,
+            "id": 66815,
+            "category": "Árboles haciendo el amor "
+        },
+        {
+            "x": false,
+            "id": 66816,
+            "category": "Crucero fantasma"
+        },
+        {
+            "x": false,
+            "id": 66817,
+            "category": "Nuevos ricos"
+        },
+        {
+            "x": false,
+            "id": 66818,
+            "category": "Padres ausentes"
+        },
+        {
+            "x": false,
+            "id": 66819,
+            "category": "Lady Gaga contra Superman"
+        },
+        {
+            "x": true,
+            "id": 66820,
+            "category": "No hay cobertura en el infierno"
+        },
+        {
+            "x": false,
+            "id": 66821,
+            "category": "El significado de la vida"
+        },
+        {
+            "x": false,
+            "id": 66822,
+            "category": "Un buen día batiendo mantequilla"
+        },
+        {
+            "x": false,
+            "id": 66823,
+            "category": "¡Estoy en la ruina!"
+        },
+        {
+            "x": false,
+            "id": 66824,
+            "category": "Guitarra maldita"
+        },
+        {
+            "x": false,
+            "id": 66825,
+            "category": "Doble paga"
+        },
+        {
+            "x": false,
+            "id": 66826,
+            "category": "Odio a mis vecinos"
+        },
+        {
+            "x": false,
+            "id": 66827,
+            "category": "Bueno, usaré el otro color"
+        },
+        {
+            "x": false,
+            "id": 66828,
+            "category": "Fuiste demasiado lejos"
+        },
+        {
+            "x": false,
+            "id": 66829,
+            "category": "¡El sol está en la casa!"
+        },
+        {
+            "x": false,
+            "id": 66830,
+            "category": "Granjero nocturno"
+        },
+        {
+            "x": false,
+            "id": 66831,
+            "category": "Sentado. Comiendo camiseta. Feliz"
+        },
+        {
+            "x": false,
+            "id": 66832,
+            "category": "Sororidad triste"
+        },
+        {
+            "x": true,
+            "id": 66833,
+            "category": "Dios se corta el pelo"
+        },
+        {
+            "x": false,
+            "id": 66834,
+            "category": "¡Amo las tijeras!"
+        },
+        {
+            "x": false,
+            "id": 66835,
+            "category": "Quiero hablar con el encargado"
+        },
+        {
+            "x": false,
+            "id": 66836,
+            "category": "La eme se cae"
+        },
+        {
+            "x": false,
+            "id": 66837,
+            "category": "Un caballo bajo un caballo"
+        },
+        {
+            "x": false,
+            "id": 66838,
+            "category": "Socorrista incompleto"
+        },
+        {
+            "x": true,
+            "id": 66839,
+            "category": "Esta caca huele a pollo"
+        },
+        {
+            "x": false,
+            "id": 66840,
+            "category": "Flechas que apuntan a la comida de la boca"
+        },
+        {
+            "x": false,
+            "id": 66841,
+            "category": "Miniespadas me parten en dos"
+        },
+        {
+            "x": false,
+            "id": 66842,
+            "category": "Barriga hinchada"
+        },
+        {
+            "x": false,
+            "id": 66843,
+            "category": "Por un lado malo, por el otro terrible"
+        },
+        {
+            "x": false,
+            "id": 66844,
+            "category": "Voy al pueblo en ensalada"
+        },
+        {
+            "x": false,
+            "id": 66845,
+            "category": "Tirar dinero a un horno"
+        },
+        {
+            "x": false,
+            "id": 66846,
+            "category": "Te vigilo"
+        },
+        {
+            "x": false,
+            "id": 66847,
+            "category": "Pesadilla de socorrista"
+        },
+        {
+            "x": true,
+            "id": 66848,
+            "category": "Cementerio aburrido"
+        },
+        {
+            "x": false,
+            "id": 66849,
+            "category": "Estas flores apestan"
+        },
+        {
+            "x": true,
+            "id": 66850,
+            "category": "Los ponis son basura"
+        },
+        {
+            "x": false,
+            "id": 66851,
+            "category": "Ese unicornio está muy delgado"
+        },
+        {
+            "x": true,
+            "id": 66852,
+            "category": "Le di un susto a un gato"
+        },
+        {
+            "x": false,
+            "id": 66853,
+            "category": "El fin del mundo en un balneario"
+        },
+        {
+            "x": false,
+            "id": 66854,
+            "category": "El cartero baila breakdance"
+        },
+        {
+            "x": false,
+            "id": 66855,
+            "category": "Demasiados caramelos"
+        },
+        {
+            "x": false,
+            "id": 66856,
+            "category": "Caniche viaja en el tiempo"
+        },
+        {
+            "x": true,
+            "id": 66857,
+            "category": "Hamaca sexi"
+        },
+        {
+            "x": false,
+            "id": 66858,
+            "category": "Minilengua"
+        },
+        {
+            "x": false,
+            "id": 66859,
+            "category": "Come cocos"
+        },
+        {
+            "x": true,
+            "id": 66860,
+            "category": "Pedos láser"
+        },
+        {
+            "x": false,
+            "id": 66861,
+            "category": "Mermelada en el ombligo"
+        },
+        {
+            "x": true,
+            "id": 66862,
+            "category": "Besar a tu primo"
+        },
+        {
+            "x": true,
+            "id": 66863,
+            "category": "Llegar a segunda base"
+        },
+        {
+            "x": false,
+            "id": 66864,
+            "category": "Comerte tus sentimientos"
+        },
+        {
+            "x": true,
+            "id": 66865,
+            "category": "Embarazada de mapaches"
+        },
+        {
+            "x": true,
+            "id": 66866,
+            "category": "Vómito inverso"
+        }
+    ],
+    "episodeid": 1420
+}
