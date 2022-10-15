@@ -33,7 +33,7 @@
         {
             "x": false,
             "id": 65363,
-            "category": "Podcast a media noche"
+            "category": "Podcast de Zombi"
         },
         {
             "x": false,
@@ -247,6 +247,11 @@
         },
         {
             "x": false,
+            "id": 65406,
+            "category": "Un ataúd lleno de donas"
+        },
+        {
+            "x": false,
             "id": 65407,
             "category": "Pelea de cucharas"
         },
@@ -303,7 +308,7 @@
         {
             "x": false,
             "id": 65418,
-            "category": "Te brillan las playeras"
+            "category": "Te brillan los dedos del pie"
         },
         {
             "x": false,
@@ -368,7 +373,7 @@
         {
             "x": false,
             "id": 65431,
-            "category": "Un boli invisible"
+            "category": "Un bolígrafo invisible"
         },
         {
             "x": false,
@@ -797,6 +802,11 @@
         },
         {
             "x": false,
+            "id": 65519,
+            "category": "Hombre lobo en París"
+        },
+        {
+            "x": false,
             "id": 65520,
             "category": "Tres granos de arena"
         },
@@ -843,7 +853,7 @@
         {
             "x": false,
             "id": 65529,
-            "category": "Deliciosas fresas de pica pica"
+            "category": "Deliciosas pasas de uva"
         },
         {
             "x": false,
@@ -1997,6 +2007,11 @@
         },
         {
             "x": false,
+            "id": 65763,
+            "category": "Toser collares"
+        },
+        {
+            "x": false,
             "id": 65764,
             "category": "Amnesia"
         },
@@ -2312,6 +2327,11 @@
         },
         {
             "x": false,
+            "id": 65830,
+            "category": "Pantalón deportivo lleno de salsa"
+        },
+        {
+            "x": false,
             "id": 65831,
             "category": "Yogur griego"
         },
@@ -2363,7 +2383,7 @@
         {
             "x": false,
             "id": 65841,
-            "category": "Tornado de gambas"
+            "category": "Tornado de camarones"
         },
         {
             "x": false,
@@ -2608,7 +2628,7 @@
         {
             "x": false,
             "id": 65890,
-            "category": "¡A ellos!"
+            "category": "¡Atrápalos!"
         },
         {
             "x": false,
@@ -2838,7 +2858,7 @@
         {
             "x": false,
             "id": 65937,
-            "category": "Élite"
+            "category": "Crepúsculo"
         },
         {
             "x": false,
@@ -4098,7 +4118,7 @@
         {
             "x": true,
             "id": 66198,
-            "category": "Los Toreros Muertos"
+            "category": "Soda Stereo"
         },
         {
             "x": false,
@@ -4203,12 +4223,17 @@
         {
             "x": false,
             "id": 66220,
-            "category": "Un tipo llamado Borjamari"
+            "category": "Un tipo llamado Marcelo"
         },
         {
             "x": true,
             "id": 66221,
             "category": "Tiene la cabeza llena de aserrín"
+        },
+        {
+            "x": false,
+            "id": 66222,
+            "category": "Los waffles se casan"
         },
         {
             "x": false,
@@ -4418,7 +4443,7 @@
         {
             "x": true,
             "id": 66264,
-            "category": "Peli con mimos"
+            "category": "Netflix y mimos"
         },
         {
             "x": false,
@@ -4783,7 +4808,7 @@
         {
             "x": false,
             "id": 66338,
-            "category": "¡Se me durmieron las piernas y no puedo levantarme!"
+            "category": "¡Se me durmieron las piernas en el baño!"
         },
         {
             "x": false,
@@ -4923,7 +4948,7 @@
         {
             "x": false,
             "id": 66367,
-            "category": "Colección de pomos"
+            "category": "Colección de picaportes"
         },
         {
             "x": false,
@@ -7106,6 +7131,11 @@
             "category": "Bufanda gigante"
         },
         {
+            "x": false,
+            "id": 66810,
+            "category": "Jesse & Joy"
+        },
+        {
             "x": true,
             "id": 66811,
             "category": "Fingir que vomitas"
@@ -7323,7 +7353,7 @@
         {
             "x": false,
             "id": 66854,
-            "category": "El cartero baila breakdance"
+            "category": "El cartero baila reggaetón"
         },
         {
             "x": false,
