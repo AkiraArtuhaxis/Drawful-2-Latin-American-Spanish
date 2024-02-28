@@ -1,0 +1,19 @@
+{
+	"showBuildVersion":"true",
+	"legalText":"jackboxScaleformFmodCriware",
+	"supportsFullScreen":"true",
+	"isBundle":"false",
+	"analyticsApi":"api.jackboxgames.com",
+	"analyticsId":"jbg-analytics-stream-test",
+	"supportsKeyboard":"true",
+	"StoreFront":"EpicStore",
+	"connectingDurationTrouble":"15000",
+	"serverUrl":"blobcast.jackboxgames.com",
+	"needExitbutton":"true",
+	"flashKeyboard":"true",
+	"supportsMouse":"true",
+	"connectingDurationAbort":"45000",
+	"supportsJoysticksHotplugging":"true",
+	"buildTimeStamp":"2019-02-01 20:13:08",
+	"buildVersion":"Build:  6.5-ES"
+}
